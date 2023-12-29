@@ -1,0 +1,2528 @@
+0,375,Oranges,1.79,2
+0,375,Lemons,3.37,11
+0,375,Peaches,3.26,20
+0,375,Peanuts,1.47,1
+0,375,Peas,2.14,10
+0,106,Beans,3.52,7
+0,106,Clementines,5.11,15
+0,106,Radicchio,1.12,13
+0,106,Rambutan,5.42,16
+0,106,Leeks,3.03,10
+0,106,Mustard greens,4.82,3
+0,106,Persimmons,1.73,11
+0,106,Cauliflower,2.49,13
+0,106,Bananas,4.79,6
+0,80,Currants,2.38,5
+0,80,Grapes,5.37,13
+0,80,Squash,3.78,5
+0,80,Garlic,5.27,17
+0,80,Honey,4.21,2
+0,80,Carrots,2.32,3
+0,235,Limes,2.18,6
+0,235,Artichokes,2.76,14
+0,235,Lemons,3.13,12
+0,671,Watermelons,3.06,5
+0,671,Bananas,2.21,2
+0,671,Figs,4.59,12
+0,671,Blueberries,3.33,9
+0,671,Cranberries,5.22,19
+0,671,Chives,4.95,0
+0,173,Basil,2.04,16
+0,807,Pineberries,4.94,16
+0,807,Cranberries,2.04,19
+0,807,Bok choy,5.47,10
+0,683,Cherimoya,1.74,2
+0,683,Lettuce,5.45,6
+0,683,Cashews,2.91,15
+0,683,Pineapples,3.59,4
+0,683,Lemons,4.7,11
+0,683,Dragon fruit,1.69,8
+0,683,Avocados,5.32,1
+0,683,Pomelo,3.1,2
+0,72,Cranberries,5.15,16
+0,72,Raspberries,5.4,13
+0,643,Clementines,1.26,12
+0,643,Peaches,4.82,15
+0,643,Kiwi,3.07,20
+0,681,Mulberries,5.31,20
+0,681,Peas,2.74,4
+0,681,Radicchio,4.13,3
+0,62,Honeydews,5.38,19
+0,62,Eggplant,5.32,0
+0,62,Artichokes,1.67,18
+0,62,Pomelo,4.43,16
+0,62,Cherries,2.9,5
+0,62,Marionberries,1.24,0
+0,62,Tomatoes,5.02,15
+0,62,Cumin,1.21,6
+0,360,Watermelons,5.4,8
+0,360,Eggplant,3.76,8
+0,419,Cashews,3.68,14
+0,419,Bok choy,3.57,7
+0,419,Tangerines,4.4,13
+0,419,Mustard greens,3.68,6
+0,604,Rosemary,4.7,16
+0,604,Spinach,3.49,1
+0,604,Cilantro,4.41,5
+0,604,Cantaloupes,5.32,2
+0,604,Bok choy,5.2,3
+1,19,Almonds,1.11,5
+1,19,Cilantro,2.33,14
+1,19,Parsley,4.02,8
+1,19,Peas,2.72,14
+1,19,Nectarines,1.96,20
+1,19,Bananas,3.98,15
+1,19,Cashews,2.3,10
+1,19,Avocados,2.62,14
+1,192,Bok choy,1.56,13
+1,726,Peas,4.38,7
+1,726,Dragon fruit,5.12,19
+1,726,Pomegranates,5.28,12
+1,726,Parsley,5.16,12
+1,726,Cauliflower,5.27,16
+1,726,Asparagus,4.32,3
+1,726,Cranberries,3.07,12
+1,726,Hazelnuts,4.07,17
+1,158,Parsnips,3.11,16
+1,158,Cilantro,1.32,13
+1,158,Pineapples,4.58,15
+1,399,Tomatoes,1.23,5
+1,427,Pineberries,4.53,4
+1,427,Raspberries,2.36,19
+1,427,Dragon fruit,1.8,13
+1,427,Kiwi,2.5,6
+1,427,Zucchini,3.75,4
+2,25,Brussels sprouts,1.81,13
+2,25,Bananas,3.06,14
+2,25,Carrots,3.54,11
+2,360,Watermelons,5.4,19
+2,360,Eggplant,3.76,2
+2,360,Peaches,2.52,11
+2,360,Lettuce,2.56,16
+2,360,Onions,3.83,4
+2,360,Asparagus,1.78,12
+2,360,Mint,3.35,19
+2,360,Grapes,3.12,20
+2,360,Cashews,4.35,10
+2,439,Apricots,4.3,5
+2,110,Squash,2.91,8
+2,110,Ugli fruit,3.92,15
+2,110,Oranges,2.31,10
+2,808,Persimmons,2.41,14
+2,808,Mangoes,4.1,12
+2,808,Cherimoya,1.9,9
+2,808,Grapes,3.68,7
+2,808,Tangerines,2.42,11
+2,808,Ugli fruit,4.74,20
+2,808,Beets,5.22,14
+2,523,Watercress,4.83,0
+2,523,Guavas,3.69,0
+2,523,Radicchio,2.01,12
+2,523,Apricots,1.85,17
+2,523,Pecans,2.45,2
+2,523,Eggplant,2.8,15
+2,523,Bell peppers,1.21,10
+2,523,Rosemary,2.07,14
+2,523,Dragon fruit,1.98,1
+2,455,Limes,3.53,18
+2,579,Zucchini,4.61,16
+2,579,Cinnamon,1.81,7
+2,579,Tangerines,4.62,19
+2,579,Bok choy,2.75,20
+2,579,Kale,1.19,1
+2,579,Parsnips,3.46,12
+2,579,Cranberries,2.97,5
+2,77,Pineberries,4.84,1
+3,552,Mangoes,3.73,3
+3,552,Asparagus,3.71,6
+3,552,Carrots,4.62,8
+3,552,Lychee,1.17,1
+3,552,Passionfruit,2.64,1
+3,552,Peanuts,4.04,5
+3,552,Walnuts,4.78,4
+3,552,Beets,2.82,14
+3,552,Pistachios,5.24,1
+3,15,Cantaloupes,4.54,4
+3,15,Tomatoes,2.63,13
+3,15,Cauliflower,5.21,14
+3,15,Cucumbers,3.93,14
+3,49,Dates,3.83,10
+3,49,Blackberries,2.01,16
+3,49,Cantaloupes,3.44,19
+3,153,Lettuce,3.29,18
+3,698,Thyme,4.98,7
+3,698,Pecans,2.42,4
+3,698,Hot peppers,4.2,19
+3,698,Raspberries,4.69,20
+3,332,Cauliflower,4.08,17
+3,205,Kiwifruit,4.5,12
+3,240,Almonds,2.09,6
+3,703,Cantaloupes,4.22,7
+3,703,Hot peppers,2.25,20
+3,703,Bell peppers,1.52,4
+4,331,Almonds,3.45,20
+5,318,Spinach,3.49,11
+5,318,Nectarines,1.19,6
+5,318,Celery,4.01,9
+5,318,Coffee beans,5.22,17
+5,318,Tomatoes,1.37,8
+5,318,Pumpkins,5.23,15
+6,15,Cantaloupes,4.54,3
+6,15,Tomatoes,2.63,2
+6,15,Cauliflower,5.21,2
+6,15,Cucumbers,3.93,5
+6,15,Kumquats,3.37,13
+6,15,Elderberries,2.29,19
+6,807,Pineberries,4.94,16
+6,807,Cranberries,2.04,16
+6,807,Bok choy,5.47,1
+6,807,Lemons,3.17,6
+6,259,Apricots,2.09,12
+6,259,Leeks,4.08,0
+6,259,Tomatoes,1.68,2
+6,259,Collard greens,3.82,20
+6,245,Beets,4.89,5
+6,245,Persimmons,2.2,10
+6,245,Blackcurrants,1.34,19
+6,141,Garlic,1.68,20
+6,184,Carrots,3.72,19
+6,184,Rosemary,1.37,19
+6,184,Kiwifruit,1.67,7
+6,136,Collard greens,1.63,0
+6,364,Onions,1.68,0
+6,364,Passionfruit,3.64,13
+6,364,Rosemary,5.49,12
+6,364,Chives,5.2,12
+6,364,Radicchio,3.29,12
+6,364,Cashews,1.98,5
+6,364,Swiss chard,3.61,11
+6,364,Cabbage,2.05,9
+6,364,Dragon fruit,4.35,19
+7,222,Lychee,3.71,7
+7,638,Pistachios,4.71,4
+7,638,Honeydews,2.58,15
+7,531,Grapes,4.92,2
+7,531,Kale,4.18,11
+7,531,Guavas,1.97,17
+7,381,Cilantro,2.75,8
+7,381,Rambutan,3.66,4
+7,381,Sweet potatoes,1.9,7
+7,657,Persimmons,2.91,3
+7,657,Lettuce,4.96,11
+7,495,Collard greens,3.87,5
+7,495,Peaches,1.46,4
+7,495,Blueberries,5.26,1
+7,495,Persimmons,1.28,4
+7,788,Kiwi,5.48,14
+7,475,Spinach,4.63,12
+7,475,Cantaloupes,3.63,3
+7,475,Blackberries,3.69,16
+8,716,Cherimoya,2.77,3
+8,716,Peanuts,3.02,9
+8,716,Leeks,4.24,9
+8,716,Cinnamon,3.07,8
+8,716,Watercress,3.83,15
+8,716,Kale,4.31,0
+8,716,Raspberries,4.39,10
+8,716,Walnuts,3.07,11
+8,716,Mangoes,2.31,9
+8,540,Lychee,2.51,20
+8,428,Bananas,5.24,6
+8,428,Mangoes,2.01,6
+8,428,Cantaloupes,4.65,6
+8,428,Guavas,5.11,17
+8,428,Apples,2.36,19
+8,428,Limes,3.68,4
+8,660,Cherries,3.6,19
+8,660,Rambutan,1.66,15
+8,660,Papayas,4.6,17
+8,660,Guavas,1.19,8
+8,660,Radicchio,2.23,6
+8,660,Clementines,5.45,12
+8,660,Parsley,3.18,1
+8,619,Blackberries,2.81,13
+8,619,Pineberries,3.65,18
+8,585,Blackberries,4.22,8
+8,585,Beets,1.81,14
+8,585,Papayas,1.91,13
+8,585,Swiss chard,3.2,6
+8,585,Nectarines,2.05,18
+8,585,Blackcurrants,2.31,20
+8,585,Mint,2.75,14
+8,585,Parsley,4.4,2
+8,585,Pineberries,2.34,20
+8,283,Turnips,1.47,18
+8,283,Rosemary,3.69,19
+8,283,Cauliflower,4.49,7
+8,283,Eggplant,2.89,9
+8,283,Dill,4.61,3
+8,707,Blackcurrants,5.01,4
+8,707,Sweet potatoes,1.6,3
+9,275,Bok choy,4.58,9
+9,275,Pomegranates,5.14,15
+9,527,Leeks,4.96,15
+9,527,Pomegranates,2.35,14
+9,757,Rambutan,2.39,15
+9,608,Potatoes,3.49,14
+9,608,Blueberries,4.04,2
+9,608,Cantaloupes,1.25,17
+9,822,Mulberries,5.41,6
+9,822,Bananas,2.5,7
+9,822,Lemons,2.58,17
+9,492,Sunflower seeds,4.28,8
+9,492,Coffee beans,5.23,11
+9,492,Thyme,4.33,8
+9,492,Garlic,4.48,18
+9,492,Ugli fruit,2.15,10
+9,492,Onions,5.34,3
+9,492,Clementines,4.2,17
+9,382,Oranges,4.72,13
+9,382,Apricots,2.09,18
+9,382,Cashews,4.64,15
+9,382,Peaches,2.59,20
+9,382,Sweet potatoes,5.32,4
+10,307,Beans,3.86,8
+10,307,Persimmons,4.66,2
+10,307,Parsnips,2.14,5
+10,307,Oranges,1.9,4
+10,307,Kale,3.42,1
+10,336,Cabbage,4.15,20
+10,336,Pistachios,1.16,8
+10,336,Cranberries,1.98,14
+10,291,Cherimoya,5.26,18
+10,291,Grapes,4.98,18
+10,291,Coffee beans,5.07,9
+10,291,Honeydews,5.35,2
+10,291,Peas,3.82,20
+10,291,Currants,5.23,20
+11,711,Carrots,3.84,9
+11,711,Blackcurrants,1.3,17
+11,711,Elderberries,1.88,20
+11,267,Cherries,3.88,14
+11,267,Blackberries,1.89,2
+11,267,Bell peppers,1.44,2
+11,618,Fennel,4.63,19
+11,618,Peas,4.91,12
+11,618,Mint,1.82,8
+11,682,Almonds,4.75,11
+11,682,Peas,2.49,11
+11,682,Lemons,2.27,11
+11,682,Cherimoya,4.56,11
+11,682,Honey,5.31,15
+11,666,Thyme,2.85,19
+11,666,Squash,4.48,6
+11,666,Boysenberries,3.63,12
+11,53,Zucchini,2.17,5
+11,53,Cantaloupes,4.23,14
+11,53,Marionberries,1.63,8
+11,303,Blackberries,5.11,7
+11,303,Bok choy,4.42,20
+11,303,Passionfruit,2.43,20
+11,582,Peas,2.96,7
+11,582,Fennel,3.27,8
+11,582,Sage,4.33,19
+11,582,Apricots,4.23,14
+11,582,Cumin,5.41,20
+11,582,Parsnips,3.89,20
+11,12,Nectarines,5.11,9
+11,12,Raspberries,3.45,10
+11,12,Mangoes,4.06,2
+11,12,Marionberries,3.58,6
+11,734,Rosemary,2.36,5
+11,734,Cranberries,3.92,9
+11,734,Limes,2.45,10
+12,585,Blackberries,4.22,12
+12,585,Beets,1.81,18
+12,793,Bananas,2.91,13
+12,793,Cranberries,1.43,12
+12,793,Peas,4.36,7
+12,793,Plums,4.14,8
+12,52,Asparagus,4.39,10
+12,52,Kiwi,3.68,11
+12,52,Bok choy,3.05,9
+12,52,Ugli fruit,4.35,20
+12,52,Cauliflower,1.67,3
+12,52,Gooseberries,5.39,20
+12,52,Strawberries,4.24,18
+12,672,Collard greens,2.33,6
+12,672,Hot peppers,5.19,16
+12,672,Cilantro,4.39,17
+12,672,Mangoes,3.56,19
+12,672,Cabbage,5.47,9
+13,309,Dates,3.5,15
+13,309,Pineapples,1.4,16
+13,309,Pomelo,4.68,17
+13,309,Blueberries,4.16,14
+13,309,Carrots,2.04,12
+13,309,Tangerines,4.32,2
+13,309,Spinach,1.77,9
+13,507,Corn,2.01,18
+13,507,Elderberries,1.2,20
+13,507,Bok choy,3.09,2
+13,507,Parsnips,4.1,0
+13,507,Bell peppers,2.23,5
+13,507,Artichokes,2.06,12
+13,745,Carrots,2.51,7
+13,745,Oranges,4.58,11
+13,745,Basil,4.16,5
+13,745,Bell peppers,2.09,8
+14,159,Lychee,2.92,7
+14,159,Boysenberries,1.12,13
+14,159,Ugli fruit,2.33,20
+14,159,Swiss chard,3.8,15
+14,159,Passionfruit,1.82,1
+14,159,Pecans,2.93,1
+14,159,Leeks,4.3,7
+14,159,Pineapples,2.45,5
+14,260,Cinnamon,2.35,12
+14,260,Eggplant,3.35,4
+14,260,Sweet potatoes,4.34,7
+14,260,Plums,2.09,12
+14,260,Almonds,4.05,5
+14,260,Grapefruits,1.84,15
+14,260,Cabbage,3.32,5
+14,727,Beans,1.4,9
+14,727,Cashews,3.0,13
+14,155,Carrots,2.43,16
+14,720,Ugli fruit,5.13,4
+14,720,Bell peppers,2.79,16
+14,720,Collard greens,1.75,7
+14,470,Cilantro,5.46,7
+14,454,Pumpkins,4.98,11
+14,454,Celery,2.67,13
+14,454,Apricots,3.89,9
+14,454,Jackfruit,4.24,11
+14,454,Mint,4.97,1
+14,454,Currants,1.57,18
+14,109,Radicchio,2.33,16
+14,109,Oranges,5.33,18
+14,109,Honeydews,4.93,12
+14,109,Beans,3.8,6
+14,109,Blueberries,4.24,17
+14,266,Kumquats,5.3,7
+14,266,Cherries,4.89,7
+14,266,Honey,3.06,17
+14,266,Guavas,4.42,4
+14,266,Walnuts,2.25,1
+14,266,Limes,5.43,9
+14,266,Sage,2.14,12
+15,213,Grapes,2.35,8
+15,213,Cranberries,3.26,17
+15,213,Passionfruit,3.06,12
+15,213,Celery,3.38,12
+15,213,Cinnamon,5.21,13
+15,213,Peaches,1.54,9
+15,215,Walnuts,2.27,18
+15,215,Strawberries,2.19,19
+15,215,Blueberries,4.33,10
+15,215,Garlic,3.05,14
+15,215,Watermelons,2.86,5
+15,758,Persimmons,1.85,18
+15,758,Pomegranates,2.09,10
+15,758,Fennel,2.73,4
+15,758,Peanuts,2.66,14
+15,758,Collard greens,3.29,15
+15,758,Kiwifruit,4.07,17
+15,282,Boysenberries,4.37,17
+15,282,Chives,1.51,17
+15,282,Currants,4.33,6
+15,282,Pomegranates,3.91,18
+15,282,Passionfruit,1.98,1
+15,282,Parsnips,3.23,6
+15,282,Nectarines,1.54,10
+15,282,Onions,1.52,20
+16,453,Lychee,2.16,15
+16,453,Kiwifruit,3.05,19
+16,453,Broccoli,3.49,11
+16,676,Peaches,4.12,15
+16,676,Almonds,2.95,9
+16,534,Zucchini,4.63,13
+16,534,Pomegranates,1.93,13
+16,534,Cilantro,4.9,3
+16,534,Marionberries,2.69,14
+16,534,Asparagus,1.16,14
+16,151,Boysenberries,5.15,16
+16,151,Leeks,2.97,6
+16,151,Onions,4.64,15
+16,151,Kumquats,4.92,10
+16,151,Garlic,2.41,6
+16,151,Potatoes,2.43,19
+16,250,Celery,4.99,15
+16,326,Carrots,5.11,3
+16,326,Cantaloupes,3.56,16
+16,326,Passionfruit,5.46,0
+16,326,Marionberries,3.75,15
+16,326,Cashews,1.69,17
+16,326,Persimmons,3.83,11
+16,505,Peas,4.78,11
+16,505,Peaches,4.76,18
+16,505,Collard greens,5.12,6
+16,505,Pomegranates,3.66,4
+16,716,Cherimoya,2.77,8
+16,716,Peanuts,3.02,14
+16,716,Leeks,4.24,12
+16,716,Cinnamon,3.07,0
+16,716,Watercress,3.83,18
+16,716,Kale,4.31,3
+16,716,Raspberries,4.39,10
+16,312,Bok choy,4.24,7
+16,312,Rambutan,2.99,3
+16,312,Figs,2.23,17
+16,312,Marionberries,3.72,16
+16,312,Lychee,1.94,19
+16,312,Cauliflower,4.71,15
+16,312,Thyme,2.38,4
+16,512,Pineberries,1.83,7
+16,512,Brussels sprouts,3.72,5
+16,512,Kiwi,3.27,14
+17,391,Bok choy,3.15,7
+17,391,Swiss chard,1.33,20
+17,391,Dragon fruit,4.34,16
+17,748,Plums,1.98,20
+17,748,Kiwi,3.64,13
+17,748,Chives,4.93,3
+17,748,Bananas,2.74,5
+17,748,Pomegranates,2.4,7
+17,748,Peaches,2.9,19
+17,748,Beets,4.42,13
+17,287,Persimmons,2.64,18
+17,212,Swiss chard,1.7,6
+17,212,Lychee,5.45,6
+17,125,Cranberries,4.96,10
+17,125,Peanuts,3.6,5
+17,125,Pumpkins,4.08,18
+17,125,Sweet potatoes,4.98,6
+17,125,Brussels sprouts,2.93,18
+17,125,Cinnamon,1.9,4
+17,600,Tomatoes,3.62,8
+17,600,Peanuts,4.02,14
+17,600,Swiss chard,1.18,8
+17,600,Pineapples,5.12,10
+17,600,Grapefruits,2.8,3
+17,600,Corn,1.61,1
+17,600,Beans,5.08,5
+17,499,Mint,4.03,5
+17,499,Cashews,4.12,1
+17,499,Dates,2.17,2
+17,547,Rambutan,5.1,10
+17,547,Beans,1.85,10
+17,547,Swiss chard,3.37,0
+17,547,Apricots,2.33,18
+17,547,Grapefruits,3.34,19
+17,547,Pomelo,3.78,4
+17,547,Lettuce,1.81,19
+17,547,Celery,4.4,17
+17,809,Blueberries,2.46,5
+17,809,Dill,3.28,5
+17,809,Peanuts,3.54,17
+17,809,Basil,1.24,5
+17,492,Sunflower seeds,4.28,19
+17,492,Coffee beans,5.23,17
+17,492,Thyme,4.33,5
+17,492,Garlic,4.48,17
+17,492,Ugli fruit,2.15,3
+17,492,Onions,5.34,15
+17,492,Clementines,4.2,14
+17,68,Peas,4.43,8
+17,68,Cantaloupes,2.72,3
+17,373,Spinach,1.51,17
+17,373,Pomegranates,1.84,19
+17,373,Currants,4.24,7
+17,373,Figs,2.26,18
+17,373,Cilantro,3.05,7
+18,274,Potatoes,2.58,17
+18,274,Radishes,2.58,8
+18,274,Okra,2.32,5
+18,274,Rambutan,4.94,14
+18,274,Spinach,3.21,6
+18,274,Boysenberries,5.33,2
+18,274,Beans,3.46,9
+18,372,Pistachios,4.81,10
+18,591,Pomegranates,1.98,13
+18,591,Blueberries,2.19,8
+18,591,Tomatoes,2.1,1
+18,591,Honeydews,1.11,6
+18,67,Eggplant,4.14,16
+18,67,Beets,1.54,11
+18,67,Cherries,3.89,5
+18,625,Boysenberries,4.07,15
+18,625,Carrots,1.26,8
+18,625,Mint,4.58,0
+18,625,Spinach,1.94,0
+18,254,Chives,3.57,2
+18,254,Grapefruits,2.93,5
+18,254,Mulberries,3.36,19
+18,106,Beans,3.52,3
+18,106,Clementines,5.11,19
+18,106,Radicchio,1.12,3
+18,106,Rambutan,5.42,0
+18,106,Leeks,3.03,17
+18,106,Mustard greens,4.82,3
+18,106,Persimmons,1.73,13
+18,106,Cauliflower,2.49,17
+18,106,Bananas,4.79,20
+18,106,Sage,2.4,9
+18,568,Artichokes,4.53,8
+18,568,Honeydews,2.6,6
+20,817,Radicchio,1.39,17
+20,817,Limes,5.31,17
+20,817,Marionberries,2.38,10
+20,0,Pomegranates,2.99,14
+20,0,Pineapples,1.49,11
+20,0,Beets,3.01,2
+20,0,Cinnamon,4.49,12
+20,0,Lettuce,3.26,13
+20,625,Boysenberries,4.07,11
+20,625,Carrots,1.26,15
+20,625,Mint,4.58,15
+20,625,Spinach,1.94,1
+20,625,Watercress,1.51,19
+21,707,Blackcurrants,5.01,5
+21,707,Sweet potatoes,1.6,19
+21,707,Cantaloupes,4.19,14
+21,707,Pecans,1.74,18
+21,707,Okra,4.51,15
+21,707,Thyme,1.91,15
+21,707,Pomegranates,4.62,11
+21,707,Papayas,3.59,4
+21,530,Fennel,3.07,17
+21,530,Coffee beans,3.14,12
+21,530,Lettuce,1.75,6
+21,530,Brussels sprouts,1.84,14
+21,467,Grapes,3.76,18
+21,467,Fennel,2.63,16
+21,467,Dill,2.91,16
+21,28,Elderberries,2.83,17
+21,28,Cucumbers,1.78,0
+21,28,Dill,4.27,14
+21,28,Boysenberries,4.01,2
+21,28,Mulberries,5.23,20
+21,28,Radicchio,2.8,17
+21,28,Persimmons,4.06,6
+21,28,Nectarines,3.17,4
+21,28,Cantaloupes,5.22,18
+21,28,Guavas,3.33,10
+21,324,Sage,3.02,18
+21,324,Cherries,4.38,11
+21,744,Hot peppers,3.36,6
+21,744,Oranges,1.21,4
+21,744,Swiss chard,5.14,3
+21,744,Squash,5.11,9
+21,744,Avocados,1.47,1
+21,744,Nectarines,2.84,13
+21,826,Figs,5.17,19
+21,826,Pineapples,4.43,16
+21,826,Cinnamon,4.67,13
+21,826,Almonds,1.78,8
+21,826,Passionfruit,4.85,7
+21,541,Pumpkins,5.36,8
+21,483,Pecans,3.78,1
+21,483,Bananas,2.31,12
+21,483,Lychee,5.26,8
+21,483,Kumquats,4.44,3
+21,483,Hot peppers,3.48,10
+21,483,Okra,3.96,6
+21,483,Apricots,3.13,5
+21,483,Mangoes,4.9,17
+22,348,Rosemary,4.18,17
+22,348,Papayas,1.1,19
+22,22,Hot peppers,4.22,9
+22,22,Sweet potatoes,2.18,0
+22,22,Bok choy,5.15,4
+22,22,Lettuce,3.18,9
+22,22,Beets,1.36,10
+23,680,Lychee,5.37,1
+23,76,Limes,1.74,6
+23,76,Grapes,2.6,13
+23,235,Limes,2.18,2
+23,235,Artichokes,2.76,7
+23,235,Lemons,3.13,5
+23,235,Gooseberries,3.37,9
+23,90,Squash,3.16,15
+23,325,Pineberries,1.58,12
+23,325,Papayas,5.29,10
+23,326,Carrots,5.11,18
+23,326,Cantaloupes,3.56,13
+23,326,Passionfruit,5.46,18
+23,326,Marionberries,3.75,19
+23,326,Cashews,1.69,13
+23,326,Persimmons,3.83,3
+23,774,Leeks,4.01,11
+23,774,Asparagus,2.43,13
+23,764,Potatoes,3.71,0
+23,764,Okra,3.61,5
+23,764,Sweet potatoes,3.52,8
+23,764,Raspberries,4.01,7
+23,764,Kiwi,1.83,19
+23,764,Collard greens,4.97,0
+23,764,Walnuts,4.97,15
+23,764,Bananas,3.04,14
+24,791,Kiwi,4.65,17
+24,791,Cinnamon,4.28,4
+24,791,Jackfruit,2.39,8
+24,565,Collard greens,3.87,18
+24,565,Chives,3.05,0
+24,565,Okra,5.1,10
+24,565,Avocados,3.1,9
+24,565,Walnuts,4.64,12
+24,637,Parsnips,2.27,17
+24,637,Grapes,1.92,7
+24,637,Boysenberries,4.55,9
+24,637,Cilantro,5.47,2
+24,637,Kiwi,3.59,20
+24,637,Beets,4.72,20
+24,637,Strawberries,1.75,3
+24,126,Blackcurrants,1.76,17
+24,126,Limes,2.53,15
+24,126,Garlic,4.68,1
+24,126,Pomelo,3.24,16
+24,126,Cauliflower,2.73,0
+24,126,Walnuts,4.29,6
+24,126,Spinach,5.13,16
+24,126,Lemons,2.6,6
+24,838,Carrots,1.58,19
+24,838,Nectarines,4.48,18
+24,838,Limes,4.48,4
+24,838,Mustard greens,3.07,0
+24,838,Peas,1.72,5
+24,838,Zucchini,3.75,20
+24,838,Bananas,1.38,15
+24,560,Almonds,1.27,9
+24,560,Cherries,2.37,18
+24,560,Fennel,4.1,8
+24,246,Potatoes,4.05,9
+24,246,Beets,3.01,8
+24,246,Cilantro,2.88,19
+24,246,Radishes,1.22,1
+24,246,Cantaloupes,4.2,20
+24,246,Sage,4.91,3
+24,246,Coffee beans,3.3,12
+24,246,Cucumbers,2.9,9
+24,503,Asparagus,3.51,15
+24,503,Cherimoya,3.98,4
+24,426,Kiwifruit,3.98,1
+24,582,Peas,2.96,20
+24,582,Fennel,3.27,11
+24,582,Sage,4.33,4
+24,582,Apricots,4.23,5
+24,582,Cumin,5.41,1
+24,582,Parsnips,3.89,2
+24,582,Cantaloupes,2.34,2
+25,579,Zucchini,4.61,20
+25,579,Cinnamon,1.81,13
+25,579,Tangerines,4.62,6
+25,613,Pineapples,4.44,15
+25,613,Mangoes,4.84,11
+25,117,Pistachios,3.16,17
+25,117,Kiwifruit,1.29,7
+25,117,Dill,2.25,2
+25,117,Lychee,2.22,3
+25,117,Rosemary,4.22,0
+25,117,Thyme,2.57,6
+25,117,Guavas,2.04,18
+25,189,Parsley,1.6,2
+25,189,Lemons,1.6,8
+25,189,Fennel,3.72,13
+25,189,Beans,5.2,18
+25,189,Turnips,4.93,11
+25,189,Tomatoes,2.16,13
+25,189,Basil,2.23,4
+25,189,Kiwifruit,2.73,16
+25,189,Apricots,2.74,3
+25,734,Rosemary,2.36,16
+25,734,Cranberries,3.92,10
+25,689,Dragon fruit,4.04,10
+25,689,Currants,4.74,20
+25,689,Peaches,3.14,3
+25,689,Grapes,1.78,18
+25,689,Cherimoya,4.41,11
+25,689,Swiss chard,4.77,5
+25,141,Garlic,1.68,11
+25,141,Squash,2.27,2
+25,141,Mulberries,2.13,3
+25,141,Pineapples,3.33,19
+25,141,Radishes,5.05,7
+25,141,Broccoli,4.12,17
+25,463,Mint,5.37,15
+25,463,Blueberries,1.99,17
+25,463,Tangerines,3.29,16
+25,463,Mustard greens,4.43,20
+25,463,Garlic,5.45,16
+25,463,Oranges,3.79,18
+25,434,Passionfruit,2.72,18
+25,434,Cucumbers,1.56,13
+25,426,Kiwifruit,3.98,4
+25,426,Squash,1.6,9
+26,66,Watermelons,1.34,6
+26,411,Cucumbers,3.29,16
+26,411,Pomegranates,4.75,3
+26,411,Turnips,5.44,9
+27,371,Almonds,4.4,19
+27,371,Oranges,2.49,6
+27,371,Radishes,3.03,14
+27,371,Cauliflower,2.07,0
+27,371,Apricots,4.77,14
+27,371,Papayas,3.59,2
+27,642,Strawberries,2.46,19
+27,642,Lemons,4.98,12
+27,642,Hazelnuts,1.75,12
+27,642,Squash,1.67,14
+27,642,Almonds,3.45,9
+27,532,Sage,1.49,17
+27,522,Walnuts,2.97,9
+27,522,Pineberries,2.03,0
+27,522,Okra,1.3,12
+27,522,Apples,2.33,0
+27,669,Onions,1.63,17
+27,669,Dragon fruit,1.53,3
+27,669,Peaches,2.11,1
+27,31,Raspberries,1.17,15
+27,31,Cantaloupes,2.49,4
+27,31,Almonds,3.39,15
+27,699,Pineberries,3.74,13
+27,699,Dill,4.03,9
+27,683,Cherimoya,1.74,6
+27,683,Lettuce,5.45,10
+27,683,Cashews,2.91,1
+27,683,Pineapples,3.59,7
+27,683,Lemons,4.7,9
+27,313,Dates,2.28,19
+27,313,Hot peppers,3.54,4
+27,313,Gooseberries,2.43,6
+27,313,Bok choy,5.02,6
+27,287,Persimmons,2.64,9
+27,535,Kale,4.54,2
+27,535,Bok choy,1.63,12
+27,535,Avocados,3.96,13
+27,535,Kiwi,4.77,7
+27,535,Leeks,2.44,4
+27,200,Papayas,1.5,16
+27,200,Celery,5.36,6
+27,200,Artichokes,1.21,8
+27,200,Rambutan,3.03,17
+28,800,Strawberries,2.96,6
+28,800,Radishes,3.81,19
+28,800,Bananas,1.95,2
+28,760,Dill,2.18,3
+28,182,Strawberries,5.16,6
+28,182,Cashews,2.71,1
+28,182,Blackberries,3.17,10
+28,182,Tangerines,4.63,15
+28,182,Guavas,3.97,12
+28,182,Thyme,1.21,4
+28,182,Grapes,4.27,8
+28,182,Cumin,2.03,4
+28,497,Kiwi,1.38,12
+28,497,Peas,2.81,8
+28,497,Rosemary,4.08,1
+28,497,Pumpkins,5.39,2
+28,218,Currants,2.91,2
+28,218,Parsnips,4.19,6
+28,218,Gooseberries,2.54,8
+28,218,Collard greens,4.38,12
+28,218,Limes,1.36,2
+28,502,Honey,3.41,20
+28,502,Ugli fruit,4.99,12
+28,178,Pomegranates,3.25,11
+29,781,Potatoes,3.51,2
+29,781,Collard greens,1.22,15
+29,781,Cherimoya,4.72,8
+29,781,Cilantro,3.19,1
+29,781,Cranberries,4.58,19
+29,531,Grapes,4.92,19
+29,531,Kale,4.18,4
+29,155,Carrots,2.43,6
+29,155,Lychee,2.37,10
+29,155,Sweet potatoes,1.38,5
+29,155,Cabbage,3.16,17
+29,155,Radishes,2.42,0
+29,167,Pumpkins,2.12,12
+29,167,Kumquats,1.99,0
+29,167,Sunflower seeds,4.05,16
+29,167,Plums,1.24,9
+29,167,Hazelnuts,2.64,11
+29,661,Lettuce,4.99,9
+29,661,Pomelo,3.69,14
+29,661,Blueberries,5.39,4
+29,84,Turnips,2.62,0
+29,84,Squash,1.87,5
+29,84,Sage,1.55,18
+29,84,Limes,3.37,2
+29,769,Pumpkins,4.84,17
+29,769,Zucchini,3.67,12
+29,522,Walnuts,2.97,13
+29,6,Coffee beans,3.83,15
+29,6,Figs,5.02,12
+29,6,Rambutan,1.31,3
+29,663,Strawberries,2.14,5
+29,718,Ugli fruit,1.34,12
+29,718,Papayas,4.8,14
+29,718,Cucumbers,4.71,4
+29,718,Carrots,2.57,15
+29,191,Rosemary,4.15,3
+29,191,Pineberries,2.46,13
+29,191,Carrots,4.52,3
+29,191,Cauliflower,2.46,14
+29,191,Apricots,4.39,2
+30,674,Bok choy,1.81,15
+30,674,Hot peppers,2.16,15
+30,674,Passionfruit,2.99,2
+30,674,Grapefruits,1.57,18
+30,674,Pumpkins,3.08,9
+30,674,Carrots,2.59,12
+30,57,Pumpkins,2.14,12
+30,57,Watercress,2.42,2
+30,57,Boysenberries,1.94,7
+30,57,Cilantro,4.85,13
+30,57,Cherries,3.43,12
+30,784,Apples,3.56,11
+32,701,Fennel,1.17,17
+32,701,Basil,5.36,10
+32,701,Pecans,4.57,7
+32,701,Eggplant,3.92,5
+32,701,Blackcurrants,5.02,14
+32,723,Walnuts,3.57,4
+32,723,Dates,4.3,12
+32,723,Garlic,2.47,1
+32,732,Cauliflower,2.12,19
+32,732,Persimmons,3.36,19
+32,732,Sage,2.53,10
+32,732,Spinach,1.19,16
+32,732,Artichokes,2.3,9
+32,732,Bok choy,4.2,17
+32,732,Raspberries,2.08,7
+32,732,Blackberries,1.83,5
+32,732,Chives,1.54,17
+32,114,Kumquats,3.23,11
+32,114,Sweet potatoes,3.54,7
+32,114,Okra,4.9,14
+32,114,Broccoli,4.83,13
+32,114,Celery,1.96,12
+32,114,Mustard greens,2.82,14
+32,114,Mint,1.64,3
+33,253,Sage,1.9,6
+33,253,Pineberries,2.28,0
+33,253,Spinach,2.49,4
+33,253,Artichokes,2.29,17
+33,253,Pistachios,1.38,3
+33,253,Lemons,1.64,20
+33,253,Turnips,3.71,13
+33,253,Pomelo,2.13,0
+33,607,Lemons,1.85,6
+33,607,Zucchini,2.32,12
+33,411,Cucumbers,3.29,0
+33,411,Pomegranates,4.75,15
+33,205,Kiwifruit,4.5,9
+33,205,Dill,2.92,0
+33,205,Strawberries,2.47,0
+33,501,Bok choy,4.04,3
+33,757,Rambutan,2.39,13
+33,757,Lemons,1.59,2
+33,757,Coffee beans,4.75,17
+33,4,Pecans,2.61,2
+33,4,Dill,1.45,10
+33,4,Pineapples,4.18,3
+33,191,Rosemary,4.15,14
+34,294,Cherimoya,4.33,19
+34,294,Pomelo,3.96,17
+34,294,Bell peppers,4.45,1
+34,294,Sweet potatoes,4.19,19
+34,294,Carrots,3.4,19
+34,294,Sunflower seeds,1.7,17
+34,294,Figs,5.25,10
+34,294,Elderberries,4.22,2
+34,294,Cinnamon,4.9,6
+34,294,Mangoes,2.4,19
+34,354,Celery,1.56,6
+34,644,Marionberries,1.11,11
+34,644,Celery,2.96,7
+34,86,Marionberries,1.94,10
+34,86,Blackcurrants,3.92,20
+34,86,Kale,3.88,20
+34,698,Thyme,4.98,10
+34,191,Rosemary,4.15,8
+34,191,Pineberries,2.46,7
+34,191,Carrots,4.52,10
+34,191,Cauliflower,2.46,11
+34,191,Apricots,4.39,14
+34,191,Spinach,4.1,9
+34,191,Thyme,4.66,16
+34,551,Carrots,3.2,2
+34,551,Blueberries,4.87,12
+34,695,Cantaloupes,1.26,2
+34,695,Turnips,1.28,4
+34,695,Elderberries,5.36,10
+34,695,Parsley,4.01,11
+34,695,Pomegranates,3.74,15
+34,287,Persimmons,2.64,7
+34,287,Thyme,5.16,19
+34,287,Tangerines,1.55,9
+34,291,Cherimoya,5.26,16
+34,291,Grapes,4.98,13
+34,291,Coffee beans,5.07,3
+34,291,Honeydews,5.35,16
+34,291,Peas,3.82,13
+34,611,Papayas,1.29,7
+34,611,Beets,1.89,19
+34,634,Cauliflower,1.18,6
+34,634,Parsnips,4.82,10
+34,634,Bok choy,4.32,4
+34,634,Cashews,1.32,8
+34,634,Persimmons,1.75,11
+34,73,Sage,4.25,3
+34,47,Cinnamon,1.45,2
+34,47,Dill,4.38,19
+34,47,Eggplant,3.54,13
+34,47,Blackberries,3.21,4
+34,47,Honey,1.92,10
+34,47,Tomatoes,2.96,0
+35,491,Pomegranates,5.38,11
+35,491,Oranges,1.45,17
+35,328,Currants,3.2,3
+35,328,Sunflower seeds,1.66,8
+35,328,Sage,5.09,0
+35,328,Avocados,4.54,4
+35,328,Cherries,2.02,3
+35,767,Dragon fruit,3.43,14
+35,767,Grapes,1.51,1
+35,767,Guavas,1.22,12
+35,767,Hazelnuts,4.74,10
+35,767,Bananas,3.23,0
+35,767,Cabbage,5.11,18
+35,767,Beets,3.65,11
+35,392,Watercress,1.93,7
+35,392,Pineapples,3.74,8
+35,392,Gooseberries,1.55,8
+35,392,Cranberries,1.76,20
+35,53,Zucchini,2.17,6
+35,53,Cantaloupes,4.23,13
+35,53,Marionberries,1.63,8
+35,47,Cinnamon,1.45,20
+35,47,Dill,4.38,6
+35,47,Eggplant,3.54,3
+35,733,Sage,4.89,4
+35,484,Papayas,4.15,14
+35,484,Kale,2.26,12
+35,484,Blueberries,4.26,5
+35,484,Limes,4.31,4
+35,484,Raspberries,4.89,5
+35,484,Rambutan,3.11,8
+35,5,Potatoes,2.75,17
+36,250,Celery,4.99,6
+36,250,Bananas,1.32,3
+36,250,Onions,4.54,11
+36,250,Cantaloupes,1.5,1
+36,250,Peanuts,3.82,18
+36,712,Nectarines,4.28,18
+36,712,Pomegranates,5.19,6
+36,712,Hot peppers,2.79,17
+36,712,Corn,5.0,9
+36,712,Lychee,3.61,13
+36,286,Carrots,2.93,16
+36,286,Lychee,1.41,20
+36,286,Beets,4.93,7
+36,569,Fennel,2.84,4
+36,516,Persimmons,1.24,20
+36,516,Okra,3.67,3
+36,516,Mulberries,4.07,7
+36,588,Lemons,3.63,14
+36,808,Persimmons,2.41,15
+36,808,Mangoes,4.1,20
+36,808,Cherimoya,1.9,17
+36,470,Cilantro,5.46,18
+36,470,Gooseberries,2.14,20
+36,470,Pomegranates,4.81,7
+36,674,Bok choy,1.81,2
+36,674,Hot peppers,2.16,17
+36,674,Passionfruit,2.99,14
+36,674,Grapefruits,1.57,7
+36,674,Pumpkins,3.08,16
+36,674,Carrots,2.59,1
+36,674,Cranberries,3.6,9
+36,674,Mulberries,3.75,3
+36,680,Lychee,5.37,19
+36,680,Pistachios,3.91,20
+36,680,Hot peppers,4.11,13
+36,680,Radicchio,2.42,7
+36,680,Bok choy,2.99,15
+37,457,Cucumbers,3.09,12
+37,23,Swiss chard,3.39,15
+37,23,Figs,5.07,3
+37,23,Cilantro,3.92,19
+37,23,Artichokes,1.73,8
+37,23,Garlic,3.08,17
+37,23,Cantaloupes,3.05,7
+37,426,Kiwifruit,3.98,4
+37,426,Squash,1.6,7
+37,426,Papayas,5.13,6
+37,426,Sage,3.86,6
+37,114,Kumquats,3.23,20
+37,114,Sweet potatoes,3.54,14
+37,114,Okra,4.9,13
+37,114,Broccoli,4.83,8
+37,114,Celery,1.96,16
+37,114,Mustard greens,2.82,12
+37,114,Mint,1.64,18
+37,294,Cherimoya,4.33,6
+37,294,Pomelo,3.96,10
+37,294,Bell peppers,4.45,8
+37,294,Sweet potatoes,4.19,11
+37,294,Carrots,3.4,1
+37,294,Sunflower seeds,1.7,15
+37,294,Figs,5.25,8
+37,294,Elderberries,4.22,13
+37,294,Cinnamon,4.9,5
+37,294,Mangoes,2.4,16
+37,284,Boysenberries,3.59,9
+37,284,Corn,1.69,17
+37,839,Rambutan,1.32,15
+37,839,Cinnamon,3.93,15
+37,839,Pumpkins,2.43,0
+37,839,Kumquats,1.15,19
+37,839,Parsnips,3.15,5
+37,839,Almonds,3.27,16
+37,839,Brussels sprouts,1.46,3
+37,839,Bok choy,2.82,11
+37,680,Lychee,5.37,6
+37,680,Pistachios,3.91,6
+37,0,Pomegranates,2.99,19
+37,0,Pineapples,1.49,13
+38,729,Pineapples,1.81,13
+38,729,Peanuts,5.1,4
+38,729,Kiwifruit,3.48,4
+38,705,Guavas,3.42,8
+38,705,Bok choy,2.39,6
+38,705,Cabbage,4.05,6
+38,705,Fennel,3.56,4
+38,705,Zucchini,1.84,12
+38,705,Cashews,1.42,5
+38,708,Hazelnuts,2.77,3
+38,708,Apricots,2.2,11
+38,582,Peas,2.96,16
+38,582,Fennel,3.27,1
+38,582,Sage,4.33,3
+38,582,Apricots,4.23,20
+38,582,Cumin,5.41,18
+38,582,Parsnips,3.89,10
+38,155,Carrots,2.43,15
+38,155,Lychee,2.37,17
+38,155,Sweet potatoes,1.38,12
+38,155,Cabbage,3.16,5
+38,155,Radishes,2.42,11
+38,155,Honey,1.36,18
+39,150,Lettuce,1.46,4
+39,150,Walnuts,4.56,6
+39,150,Guavas,3.43,20
+39,711,Carrots,3.84,6
+39,711,Blackcurrants,1.3,4
+39,711,Elderberries,1.88,6
+39,711,Nectarines,2.82,8
+39,711,Watermelons,2.65,2
+39,85,Walnuts,4.9,3
+39,85,Apples,3.11,19
+39,85,Brussels sprouts,2.98,5
+39,85,Zucchini,5.48,20
+39,85,Eggplant,2.47,14
+39,502,Honey,3.41,4
+39,502,Ugli fruit,4.99,2
+39,502,Pineapples,1.37,15
+39,2,Basil,3.39,16
+39,2,Celery,3.74,9
+39,2,Marionberries,1.35,19
+39,183,Mangoes,3.26,17
+39,183,Celery,1.58,11
+39,183,Pecans,5.08,6
+39,707,Blackcurrants,5.01,2
+39,707,Sweet potatoes,1.6,0
+39,707,Cantaloupes,4.19,20
+39,707,Pecans,1.74,4
+39,707,Okra,4.51,19
+39,707,Thyme,1.91,0
+39,707,Pomegranates,4.62,18
+39,707,Papayas,3.59,14
+39,707,Watercress,4.55,12
+39,382,Oranges,4.72,4
+39,382,Apricots,2.09,13
+39,382,Cashews,4.64,10
+39,382,Peaches,2.59,0
+39,382,Sweet potatoes,5.32,19
+39,466,Sweet potatoes,3.41,18
+39,466,Hazelnuts,3.19,14
+39,466,Potatoes,2.41,16
+39,738,Figs,3.73,3
+40,313,Dates,2.28,12
+40,313,Hot peppers,3.54,16
+40,313,Gooseberries,2.43,14
+40,313,Bok choy,5.02,20
+40,389,Peaches,1.36,19
+40,389,Apricots,3.28,1
+40,340,Elderberries,2.11,11
+40,340,Okra,3.27,3
+40,340,Currants,3.62,8
+40,340,Walnuts,3.94,9
+40,340,Rambutan,4.04,15
+40,630,Ugli fruit,2.54,12
+40,630,Mustard greens,1.96,6
+40,630,Walnuts,4.81,20
+40,83,Tangerines,4.49,16
+40,83,Blackcurrants,5.5,13
+40,83,Radicchio,3.7,16
+40,83,Asparagus,4.02,9
+40,83,Pineberries,1.52,2
+40,83,Parsley,2.65,4
+40,83,Pomelo,2.34,5
+40,837,Blackberries,2.3,18
+40,837,Blackcurrants,5.01,19
+40,837,Raspberries,2.07,20
+40,837,Peaches,1.34,16
+40,837,Apricots,2.99,17
+40,837,Strawberries,4.54,17
+40,837,Lettuce,2.51,7
+40,604,Rosemary,4.7,3
+40,604,Spinach,3.49,13
+40,604,Cilantro,4.41,2
+41,248,Bok choy,3.98,8
+41,248,Pumpkins,2.48,6
+41,248,Cabbage,4.04,16
+41,248,Grapefruits,3.69,0
+41,248,Potatoes,5.24,7
+41,733,Sage,4.89,12
+41,733,Raspberries,2.51,12
+41,733,Blueberries,4.47,11
+41,736,Carrots,5.36,13
+41,736,Garlic,4.73,11
+41,736,Squash,3.24,16
+41,736,Asparagus,2.82,17
+41,202,Kale,4.99,7
+41,202,Basil,3.19,14
+41,202,Oranges,1.82,9
+41,630,Ugli fruit,2.54,11
+41,630,Mustard greens,1.96,12
+41,630,Walnuts,4.81,4
+41,93,Dragon fruit,3.51,20
+41,93,Beans,1.32,3
+41,93,Hot peppers,1.7,5
+41,93,Plums,4.87,11
+41,252,Pumpkins,4.33,5
+41,252,Cherries,3.68,7
+41,252,Pistachios,3.78,16
+41,252,Tangerines,5.16,15
+41,252,Rambutan,2.26,0
+41,252,Hot peppers,3.39,17
+41,47,Cinnamon,1.45,11
+41,47,Dill,4.38,5
+41,47,Eggplant,3.54,11
+41,791,Kiwi,4.65,13
+41,791,Cinnamon,4.28,13
+41,791,Jackfruit,2.39,0
+41,791,Gooseberries,2.24,1
+41,168,Sunflower seeds,1.23,20
+41,168,Chives,1.94,18
+41,392,Watercress,1.93,5
+41,62,Honeydews,5.38,12
+41,62,Eggplant,5.32,12
+42,309,Dates,3.5,4
+42,309,Pineapples,1.4,9
+42,309,Pomelo,4.68,16
+42,309,Blueberries,4.16,16
+42,309,Carrots,2.04,9
+42,309,Tangerines,4.32,7
+42,309,Spinach,1.77,17
+42,172,Apricots,4.75,17
+42,172,Pineberries,1.54,6
+42,172,Sunflower seeds,2.63,20
+42,172,Garlic,3.85,10
+42,619,Blackberries,2.81,2
+42,619,Pineberries,3.65,19
+42,619,Cashews,4.27,13
+42,619,Papayas,5.22,18
+42,189,Parsley,1.6,1
+42,189,Lemons,1.6,15
+42,189,Fennel,3.72,20
+42,189,Beans,5.2,1
+42,189,Turnips,4.93,10
+42,189,Tomatoes,2.16,19
+42,189,Basil,2.23,1
+42,150,Lettuce,1.46,19
+42,150,Walnuts,4.56,4
+42,150,Guavas,3.43,7
+42,150,Limes,2.8,1
+42,150,Tangerines,3.29,15
+42,150,Cilantro,1.95,10
+42,150,Turnips,1.98,16
+42,150,Passionfruit,4.65,15
+42,150,Currants,2.49,11
+42,780,Chives,1.83,10
+42,780,Currants,1.65,10
+42,780,Zucchini,4.56,8
+42,780,Bananas,3.57,8
+42,567,Bok choy,5.12,20
+42,567,Squash,2.71,9
+42,567,Kumquats,3.31,4
+42,567,Jackfruit,3.18,0
+42,567,Beans,3.38,16
+42,567,Parsnips,5.48,19
+42,567,Cashews,2.43,9
+42,567,Beets,3.54,18
+42,372,Pistachios,4.81,0
+42,372,Avocados,2.96,0
+42,372,Basil,4.8,8
+42,372,Peaches,3.4,11
+42,372,Sage,1.32,11
+43,290,Kiwi,1.14,4
+43,290,Chives,3.57,18
+43,290,Okra,4.78,17
+43,290,Sage,3.79,17
+43,290,Mint,1.49,18
+43,426,Kiwifruit,3.98,0
+43,426,Squash,1.6,20
+43,426,Papayas,5.13,6
+43,426,Sage,3.86,20
+43,426,Leeks,4.78,12
+43,426,Cumin,1.5,1
+43,426,Mint,2.35,20
+43,401,Kiwifruit,3.94,1
+43,401,Bok choy,3.51,0
+43,401,Squash,4.1,19
+43,401,Plums,4.33,5
+43,401,Rosemary,4.42,11
+43,401,Beans,5.03,5
+43,488,Lychee,3.26,11
+43,711,Carrots,3.84,19
+43,784,Apples,3.56,9
+43,784,Garlic,3.04,18
+43,784,Bok choy,4.87,15
+43,784,Coffee beans,1.97,10
+43,784,Pecans,5.46,11
+43,784,Bananas,4.98,7
+43,807,Pineberries,4.94,2
+43,807,Cranberries,2.04,4
+43,807,Bok choy,5.47,11
+43,807,Lemons,3.17,9
+43,380,Honey,4.18,5
+43,380,Thyme,4.02,10
+43,690,Parsnips,3.56,4
+43,690,Mustard greens,3.43,4
+43,453,Lychee,2.16,6
+43,712,Nectarines,4.28,4
+43,712,Pomegranates,5.19,0
+43,712,Hot peppers,2.79,13
+44,238,Apples,3.3,10
+44,238,Dates,2.49,20
+44,238,Blueberries,1.17,19
+44,238,Chives,4.32,0
+44,238,Coffee beans,2.37,15
+44,238,Walnuts,3.26,16
+44,230,Beets,2.38,3
+44,230,Dill,1.24,19
+44,230,Spinach,1.41,8
+44,230,Almonds,3.49,4
+44,230,Pineberries,4.06,0
+44,230,Blueberries,1.93,4
+44,230,Pistachios,2.32,4
+44,230,Hazelnuts,2.45,12
+44,230,Pumpkins,3.43,20
+44,185,Tangerines,3.78,5
+44,250,Celery,4.99,9
+44,560,Almonds,1.27,9
+44,560,Cherries,2.37,1
+44,673,Chives,5.47,16
+44,274,Potatoes,2.58,12
+44,274,Radishes,2.58,16
+44,274,Okra,2.32,0
+44,274,Rambutan,4.94,9
+44,529,Guavas,3.42,6
+44,529,Almonds,1.64,9
+44,529,Blackcurrants,3.59,0
+45,808,Persimmons,2.41,0
+45,808,Mangoes,4.1,3
+45,808,Cherimoya,1.9,6
+45,665,Elderberries,1.61,13
+45,665,Honey,3.36,13
+45,665,Hazelnuts,4.17,6
+45,688,Tangerines,3.45,11
+45,688,Rambutan,1.47,5
+45,688,Corn,1.61,0
+45,688,Pineberries,2.24,16
+46,532,Sage,1.49,17
+46,532,Kale,3.37,8
+46,532,Coffee beans,4.35,14
+46,532,Pomelo,2.05,8
+46,532,Limes,1.43,12
+46,532,Almonds,4.52,5
+46,532,Leeks,4.17,14
+46,51,Bananas,3.73,5
+46,707,Blackcurrants,5.01,16
+46,707,Sweet potatoes,1.6,5
+46,707,Cantaloupes,4.19,1
+46,707,Pecans,1.74,0
+46,707,Okra,4.51,9
+46,707,Thyme,1.91,19
+46,707,Pomegranates,4.62,12
+46,707,Papayas,3.59,5
+46,707,Watercress,4.55,18
+46,642,Strawberries,2.46,6
+46,642,Lemons,4.98,15
+46,642,Hazelnuts,1.75,18
+46,200,Papayas,1.5,3
+47,246,Potatoes,4.05,19
+47,246,Beets,3.01,9
+47,246,Cilantro,2.88,8
+47,246,Radishes,1.22,17
+47,246,Cantaloupes,4.2,17
+47,246,Sage,4.91,18
+47,246,Coffee beans,3.3,0
+47,246,Cucumbers,2.9,14
+47,636,Almonds,5.34,18
+47,636,Broccoli,4.35,12
+47,636,Spinach,2.2,4
+47,636,Rambutan,2.87,8
+47,636,Artichokes,4.27,7
+47,636,Hazelnuts,3.96,1
+47,636,Honeydews,1.6,14
+47,636,Kumquats,4.04,0
+47,635,Passionfruit,4.59,15
+47,758,Persimmons,1.85,15
+47,758,Pomegranates,2.09,7
+47,295,Watermelons,1.29,11
+47,295,Honey,3.8,20
+47,167,Pumpkins,2.12,2
+47,167,Kumquats,1.99,1
+47,167,Sunflower seeds,4.05,1
+47,167,Plums,1.24,17
+47,167,Hazelnuts,2.64,0
+47,167,Oranges,2.03,14
+47,167,Walnuts,1.78,11
+47,622,Lychee,1.29,1
+47,622,Jackfruit,1.98,16
+47,622,Pineapples,4.79,0
+47,622,Grapefruits,5.41,17
+47,622,Pomelo,2.16,0
+47,47,Cinnamon,1.45,2
+47,47,Dill,4.38,8
+47,47,Eggplant,3.54,13
+47,278,Peas,3.59,1
+47,131,Cucumbers,1.57,11
+47,131,Lemons,4.62,17
+48,767,Dragon fruit,3.43,6
+48,767,Grapes,1.51,16
+48,767,Guavas,1.22,3
+48,767,Hazelnuts,4.74,10
+48,767,Bananas,3.23,5
+48,767,Cabbage,5.11,7
+48,767,Beets,3.65,20
+48,142,Tomatoes,3.35,0
+48,142,Currants,4.3,16
+48,142,Sunflower seeds,2.7,9
+48,142,Turnips,5.27,10
+48,142,Oranges,1.45,16
+48,142,Swiss chard,1.69,6
+48,142,Brussels sprouts,3.89,14
+48,142,Chives,1.43,19
+48,750,Avocados,2.01,12
+48,750,Grapes,2.94,0
+48,304,Artichokes,3.81,14
+48,304,Grapes,1.37,15
+48,304,Dragon fruit,1.74,12
+48,304,Bell peppers,1.6,2
+48,304,Elderberries,3.22,7
+48,6,Coffee beans,3.83,12
+48,6,Figs,5.02,4
+48,6,Rambutan,1.31,19
+48,6,Grapes,3.88,4
+48,6,Mulberries,3.98,0
+48,6,Onions,2.72,19
+48,6,Peanuts,5.36,10
+48,6,Blueberries,4.34,17
+48,118,Blackberries,2.72,8
+48,118,Collard greens,3.19,9
+48,92,Passionfruit,3.75,7
+48,92,Turnips,3.97,5
+48,92,Pecans,2.4,1
+48,92,Sweet potatoes,2.71,17
+48,92,Mint,4.42,9
+48,92,Beets,4.67,15
+48,505,Peas,4.78,17
+48,505,Peaches,4.76,9
+48,505,Collard greens,5.12,19
+48,505,Pomegranates,3.66,16
+48,505,Asparagus,1.76,13
+48,505,Beans,4.96,13
+48,505,Honeydews,1.53,7
+48,505,Spinach,4.24,12
+48,613,Pineapples,4.44,15
+49,100,Onions,2.9,17
+49,100,Okra,2.23,18
+49,100,Cauliflower,2.25,18
+49,100,Parsnips,3.18,16
+49,100,Guavas,4.43,15
+49,100,Radishes,1.42,11
+49,425,Corn,3.87,4
+49,643,Clementines,1.26,1
+50,506,Cherimoya,1.51,14
+50,506,Cumin,3.22,9
+50,506,Plums,3.96,4
+50,506,Radicchio,4.13,13
+50,713,Hot peppers,4.92,14
+50,713,Zucchini,5.22,17
+50,713,Lettuce,4.92,2
+50,713,Cranberries,1.9,3
+50,713,Broccoli,2.3,8
+50,713,Bok choy,4.7,8
+50,231,Ugli fruit,3.74,10
+50,558,Basil,1.62,1
+50,558,Dill,5.29,15
+50,558,Gooseberries,4.88,10
+50,830,Fennel,2.93,11
+50,830,Elderberries,1.47,6
+50,830,Honeydews,5.02,8
+50,830,Sage,2.27,2
+50,16,Peaches,2.25,0
+50,16,Asparagus,2.35,17
+50,16,Pineapples,4.1,3
+50,300,Hot peppers,5.4,1
+50,300,Kiwifruit,4.19,5
+50,300,Guavas,5.43,1
+50,300,Corn,1.34,19
+50,300,Lemons,2.49,10
+50,300,Pineapples,3.36,3
+50,300,Coffee beans,2.48,14
+50,300,Mint,1.91,15
+50,26,Fennel,2.39,17
+50,26,Corn,3.1,17
+50,26,Parsley,3.1,17
+50,26,Bell peppers,4.57,12
+50,26,Beets,1.11,13
+51,63,Artichokes,5.06,2
+51,433,Thyme,3.68,14
+51,433,Avocados,1.22,8
+51,433,Lettuce,3.23,16
+51,15,Cantaloupes,4.54,3
+51,15,Tomatoes,2.63,8
+51,15,Cauliflower,5.21,7
+51,259,Apricots,2.09,2
+51,259,Leeks,4.08,16
+51,136,Collard greens,1.63,15
+51,369,Mint,3.28,13
+51,369,Corn,3.55,16
+51,369,Lettuce,1.25,12
+51,369,Bok choy,1.26,13
+51,369,Hazelnuts,1.81,7
+51,369,Peas,4.74,5
+51,487,Pumpkins,3.61,1
+51,487,Hazelnuts,3.38,17
+51,487,Clementines,4.84,15
+51,231,Ugli fruit,3.74,6
+51,0,Pomegranates,2.99,17
+51,0,Pineapples,1.49,13
+51,795,Corn,1.88,7
+51,795,Apricots,1.89,20
+51,795,Peaches,4.47,19
+51,795,Guavas,3.87,13
+51,795,Elderberries,5.17,10
+51,795,Brussels sprouts,3.62,16
+51,795,Cranberries,3.86,17
+51,795,Carrots,3.73,18
+51,534,Zucchini,4.63,3
+51,534,Pomegranates,1.93,8
+51,534,Cilantro,4.9,19
+51,534,Marionberries,2.69,15
+51,534,Asparagus,1.16,13
+51,650,Pineberries,5.12,12
+52,656,Honeydews,1.54,3
+52,656,Cucumbers,4.64,3
+52,656,Tangerines,2.39,15
+52,326,Carrots,5.11,14
+52,765,Mangoes,1.65,17
+52,765,Honey,1.15,2
+53,199,Lettuce,4.27,15
+53,199,Mulberries,4.26,7
+53,199,Squash,5.25,20
+53,199,Brussels sprouts,2.09,7
+53,199,Papayas,3.32,16
+53,416,Dill,3.71,1
+53,416,Nectarines,3.03,7
+53,416,Leeks,2.57,12
+53,416,Walnuts,4.9,2
+53,416,Lychee,2.36,17
+53,416,Parsley,2.1,19
+53,416,Pineapples,4.55,17
+53,416,Spinach,1.35,20
+53,473,Parsley,2.08,2
+53,473,Dragon fruit,3.74,7
+53,577,Cherimoya,1.4,17
+53,315,Basil,1.43,6
+53,315,Pineapples,2.98,3
+53,315,Raspberries,2.82,9
+53,315,Tangerines,3.57,13
+53,315,Kumquats,4.26,1
+53,403,Limes,5.47,2
+53,403,Apples,4.18,15
+53,403,Rosemary,1.54,14
+53,403,Grapes,3.22,10
+53,128,Cherries,5.01,4
+53,128,Blueberries,4.81,4
+53,820,Tomatoes,1.11,15
+53,820,Leeks,4.61,9
+53,820,Broccoli,3.39,14
+53,820,Grapefruits,2.7,4
+53,820,Mint,3.74,11
+53,820,Cherries,1.2,3
+53,820,Honey,4.22,11
+53,699,Pineberries,3.74,2
+53,699,Dill,4.03,8
+53,699,Raspberries,3.15,10
+53,420,Guavas,3.14,0
+53,420,Collard greens,1.31,10
+53,420,Basil,1.88,15
+53,420,Cucumbers,5.28,5
+53,420,Parsley,5.29,18
+53,420,Jackfruit,5.27,6
+53,420,Squash,1.64,17
+53,420,Grapes,4.85,15
+54,430,Beets,1.29,2
+54,430,Dill,4.82,1
+54,430,Boysenberries,4.95,18
+54,48,Collard greens,2.83,2
+54,48,Sunflower seeds,4.26,19
+54,71,Figs,4.83,4
+54,71,Honey,4.63,14
+54,71,Cucumbers,2.1,10
+54,71,Tomatoes,2.79,5
+54,71,Corn,2.92,13
+54,479,Cilantro,3.8,6
+54,131,Cucumbers,1.57,16
+54,131,Lemons,4.62,8
+54,250,Celery,4.99,9
+54,250,Bananas,1.32,0
+54,250,Onions,4.54,0
+54,250,Cantaloupes,1.5,20
+54,250,Peanuts,3.82,12
+54,798,Walnuts,2.07,18
+54,798,Onions,1.66,6
+54,798,Currants,2.17,5
+54,798,Blackcurrants,1.17,7
+54,798,Leeks,5.28,6
+54,798,Guavas,4.86,20
+54,512,Pineberries,1.83,20
+54,512,Brussels sprouts,3.72,8
+54,584,Grapes,2.67,5
+54,584,Papayas,2.36,16
+54,584,Hazelnuts,5.47,19
+55,630,Ugli fruit,2.54,16
+55,630,Mustard greens,1.96,4
+55,630,Walnuts,4.81,3
+55,598,Elderberries,1.14,8
+55,598,Cucumbers,4.77,5
+55,598,Lemons,2.25,18
+55,598,Blueberries,3.33,9
+55,598,Tomatoes,3.27,0
+55,598,Blackberries,4.33,8
+55,598,Lettuce,1.72,13
+55,598,Gooseberries,1.79,4
+55,150,Lettuce,1.46,8
+55,150,Walnuts,4.56,0
+55,150,Guavas,3.43,15
+55,150,Limes,2.8,6
+55,150,Tangerines,3.29,13
+55,150,Cilantro,1.95,0
+55,150,Turnips,1.98,8
+55,150,Passionfruit,4.65,17
+55,150,Currants,2.49,11
+55,237,Kale,5.14,9
+55,237,Passionfruit,3.35,2
+55,796,Marionberries,2.07,17
+55,796,Honeydews,4.12,18
+55,796,Dragon fruit,2.53,14
+55,796,Guavas,5.43,8
+55,807,Pineberries,4.94,17
+55,807,Cranberries,2.04,0
+55,807,Bok choy,5.47,10
+55,807,Lemons,3.17,9
+55,807,Turnips,2.07,14
+55,807,Cumin,2.03,12
+55,807,Pecans,4.77,1
+55,807,Peanuts,2.69,3
+55,807,Broccoli,4.07,12
+55,26,Fennel,2.39,19
+55,530,Fennel,3.07,7
+55,530,Coffee beans,3.14,4
+55,718,Ugli fruit,1.34,16
+55,718,Papayas,4.8,8
+55,718,Cucumbers,4.71,1
+55,718,Carrots,2.57,14
+55,298,Apples,5.41,18
+55,298,Radishes,1.93,0
+55,401,Kiwifruit,3.94,0
+56,769,Pumpkins,4.84,2
+56,769,Zucchini,3.67,2
+56,769,Kiwi,4.52,7
+56,769,Basil,4.86,16
+56,769,Gooseberries,4.99,15
+58,789,Collard greens,5.06,16
+58,789,Passionfruit,1.6,11
+58,789,Papayas,4.25,0
+58,789,Basil,3.57,3
+58,789,Cumin,4.12,3
+58,789,Rosemary,4.67,16
+58,789,Pomelo,4.72,3
+58,576,Grapes,1.29,19
+58,576,Tomatoes,3.98,0
+58,576,Sunflower seeds,4.75,1
+58,576,Rambutan,4.53,3
+58,576,Jackfruit,1.32,9
+58,47,Cinnamon,1.45,6
+58,47,Dill,4.38,14
+58,570,Beets,4.31,9
+58,17,Cumin,5.15,4
+59,25,Brussels sprouts,1.81,10
+59,25,Bananas,3.06,19
+59,110,Squash,2.91,19
+59,110,Ugli fruit,3.92,19
+59,110,Oranges,2.31,13
+59,721,Currants,4.34,5
+59,721,Watercress,1.86,16
+59,721,Persimmons,1.48,13
+59,534,Zucchini,4.63,0
+59,534,Pomegranates,1.93,3
+59,193,Blackberries,4.42,20
+59,193,Carrots,3.29,3
+59,193,Grapes,3.55,4
+59,193,Asparagus,3.27,4
+60,397,Blackberries,2.8,17
+60,397,Cumin,1.13,10
+60,397,Kiwi,3.97,12
+60,397,Garlic,2.43,11
+61,655,Grapes,1.18,10
+61,655,Mangoes,2.05,6
+61,655,Walnuts,2.17,3
+61,655,Cauliflower,1.51,12
+62,260,Cinnamon,2.35,10
+62,260,Eggplant,3.35,16
+62,260,Sweet potatoes,4.34,3
+62,260,Plums,2.09,20
+62,260,Almonds,4.05,15
+62,239,Eggplant,1.16,15
+62,401,Kiwifruit,3.94,2
+62,401,Bok choy,3.51,9
+62,401,Squash,4.1,19
+62,56,Grapefruits,1.65,3
+62,56,Bananas,2.27,2
+62,56,Apricots,1.29,6
+62,56,Chives,4.32,5
+62,56,Collard greens,3.3,16
+62,521,Basil,2.09,20
+62,521,Mustard greens,5.21,3
+62,521,Mangoes,3.11,6
+62,521,Kiwi,3.59,14
+62,521,Fennel,1.41,1
+62,521,Squash,1.64,10
+62,413,Mulberries,5.41,15
+62,413,Marionberries,4.7,18
+62,413,Jackfruit,2.36,17
+62,413,Garlic,5.17,11
+62,413,Bell peppers,3.75,3
+62,12,Nectarines,5.11,7
+62,12,Raspberries,3.45,19
+62,12,Mangoes,4.06,19
+62,12,Marionberries,3.58,11
+62,785,Bananas,2.48,19
+62,785,Garlic,1.35,2
+62,785,Kale,4.63,13
+62,785,Pecans,2.26,15
+62,785,Mangoes,2.77,15
+62,785,Clementines,2.57,6
+62,76,Limes,1.74,5
+62,76,Grapes,2.6,9
+62,76,Cinnamon,4.05,4
+62,76,Cherimoya,1.35,3
+62,76,Papayas,2.85,11
+62,76,Oranges,4.64,7
+62,76,Bok choy,2.59,16
+63,136,Collard greens,1.63,4
+63,302,Boysenberries,5.2,2
+63,588,Lemons,3.63,9
+63,588,Lychee,1.57,19
+63,588,Parsnips,1.79,0
+63,588,Peaches,2.76,2
+63,588,Sweet potatoes,2.83,16
+64,452,Parsley,5.47,6
+64,452,Mangoes,3.44,2
+64,586,Hazelnuts,3.74,19
+64,641,Thyme,3.95,4
+64,641,Blueberries,1.85,12
+64,641,Radishes,2.35,4
+64,641,Sweet potatoes,1.47,19
+64,641,Lemons,3.37,12
+64,641,Sunflower seeds,5.08,3
+64,641,Apples,3.15,9
+64,641,Celery,4.15,14
+64,200,Papayas,1.5,11
+64,200,Celery,5.36,12
+64,200,Artichokes,1.21,6
+64,200,Rambutan,3.03,19
+64,200,Gooseberries,2.31,17
+64,200,Almonds,1.48,4
+65,327,Tangerines,3.01,18
+65,327,Honeydews,2.19,16
+65,327,Kale,3.95,18
+65,63,Artichokes,5.06,11
+65,63,Honeydews,5.47,4
+65,63,Beans,4.05,10
+65,63,Brussels sprouts,2.38,10
+65,63,Sage,1.93,4
+65,63,Tomatoes,4.37,12
+65,734,Rosemary,2.36,6
+65,734,Cranberries,3.92,7
+65,734,Limes,2.45,7
+66,771,Peanuts,1.2,5
+66,771,Mulberries,2.71,19
+66,771,Pineapples,4.2,18
+66,771,Pomelo,1.58,11
+66,515,Asparagus,5.1,17
+66,515,Carrots,3.77,6
+66,515,Grapes,4.72,18
+66,515,Dill,3.94,5
+66,429,Mangoes,4.79,16
+66,429,Chives,1.12,1
+66,429,Cilantro,4.26,15
+66,431,Lychee,1.98,10
+66,431,Strawberries,4.68,9
+66,401,Kiwifruit,3.94,11
+66,401,Bok choy,3.51,6
+66,435,Dragon fruit,3.91,8
+66,435,Spinach,4.38,8
+66,435,Bananas,2.32,18
+66,435,Peas,3.81,7
+66,435,Dill,1.98,14
+66,435,Zucchini,4.14,5
+66,131,Cucumbers,1.57,13
+66,847,Guavas,5.46,3
+66,217,Asparagus,2.4,4
+66,217,Avocados,4.02,3
+66,764,Potatoes,3.71,8
+66,764,Okra,3.61,5
+66,764,Sweet potatoes,3.52,2
+66,764,Raspberries,4.01,7
+66,764,Kiwi,1.83,8
+66,764,Collard greens,4.97,2
+66,764,Walnuts,4.97,6
+66,764,Bananas,3.04,20
+66,764,Honeydews,1.34,12
+66,748,Plums,1.98,4
+66,748,Kiwi,3.64,2
+67,283,Turnips,1.47,20
+67,283,Rosemary,3.69,12
+67,283,Cauliflower,4.49,4
+67,283,Eggplant,2.89,12
+67,336,Cabbage,4.15,5
+67,336,Pistachios,1.16,7
+67,318,Spinach,3.49,12
+67,318,Nectarines,1.19,11
+67,448,Bok choy,2.37,15
+67,448,Pineberries,4.09,4
+67,448,Beets,2.92,4
+68,537,Watercress,3.78,6
+68,537,Peaches,3.38,7
+68,537,Passionfruit,2.48,15
+68,537,Sweet potatoes,4.12,14
+68,537,Zucchini,4.51,1
+68,658,Radicchio,1.43,5
+68,658,Clementines,2.19,14
+68,658,Swiss chard,4.14,19
+68,658,Eggplant,3.22,0
+68,658,Blueberries,1.14,2
+68,658,Fennel,1.23,18
+68,497,Kiwi,1.38,2
+68,497,Peas,2.81,6
+68,70,Artichokes,2.93,8
+68,70,Parsley,4.26,4
+68,70,Dragon fruit,2.76,1
+68,70,Broccoli,3.0,18
+68,70,Peas,3.01,12
+68,70,Swiss chard,3.6,0
+68,391,Bok choy,3.15,15
+68,391,Swiss chard,1.33,18
+68,391,Dragon fruit,4.34,5
+68,772,Sweet potatoes,5.42,5
+68,772,Beets,2.41,7
+68,772,Mint,1.56,10
+68,220,Pecans,1.84,13
+68,220,Brussels sprouts,4.23,15
+68,220,Dates,3.89,13
+68,504,Dragon fruit,5.28,8
+68,262,Watermelons,5.3,14
+68,262,Chives,3.25,0
+68,262,Blackcurrants,3.27,16
+68,262,Dill,4.03,18
+68,262,Figs,3.8,14
+68,262,Apricots,3.77,7
+68,262,Avocados,2.69,5
+68,262,Ugli fruit,3.88,4
+68,133,Okra,4.53,17
+68,133,Apples,1.63,11
+68,133,Cherimoya,4.37,6
+68,133,Passionfruit,4.02,3
+68,133,Mint,2.28,1
+68,57,Pumpkins,2.14,14
+69,663,Strawberries,2.14,12
+69,663,Tomatoes,3.53,10
+69,663,Asparagus,2.21,16
+69,663,Watermelons,3.76,14
+69,663,Blackberries,1.15,16
+69,174,Peaches,4.42,9
+69,174,Watercress,3.57,18
+69,174,Boysenberries,4.85,12
+69,289,Boysenberries,2.96,5
+69,289,Eggplant,5.36,9
+69,289,Cashews,2.18,6
+69,289,Gooseberries,4.26,16
+69,289,Lemons,4.28,1
+69,748,Plums,1.98,8
+69,748,Kiwi,3.64,10
+69,748,Chives,4.93,7
+69,748,Bananas,2.74,20
+69,748,Pomegranates,2.4,1
+69,705,Guavas,3.42,13
+69,705,Bok choy,2.39,2
+69,705,Cabbage,4.05,16
+70,290,Kiwi,1.14,13
+70,290,Chives,3.57,0
+70,74,Guavas,1.61,3
+70,74,Pistachios,4.05,19
+70,787,Pumpkins,5.16,11
+70,787,Kiwifruit,4.74,12
+70,787,Potatoes,3.28,7
+70,787,Pomelo,3.29,8
+70,787,Cinnamon,4.73,6
+70,787,Honey,4.38,0
+70,64,Walnuts,1.55,5
+70,64,Mangoes,3.0,0
+70,280,Limes,5.32,13
+70,280,Blueberries,2.96,11
+70,280,Garlic,3.68,10
+70,280,Jackfruit,4.54,4
+70,280,Ugli fruit,2.46,16
+70,123,Kale,2.63,5
+70,368,Grapefruits,2.16,8
+70,337,Basil,1.16,18
+70,337,Blueberries,3.57,5
+70,337,Beans,1.69,10
+70,337,Figs,2.62,7
+70,66,Watermelons,1.34,20
+70,66,Pomegranates,4.59,13
+71,540,Lychee,2.51,2
+71,471,Marionberries,1.11,2
+71,541,Pumpkins,5.36,18
+71,541,Parsley,1.92,7
+71,541,Pomelo,1.35,4
+71,269,Limes,1.87,5
+71,269,Pomelo,3.74,13
+71,269,Fennel,2.28,1
+71,269,Mint,4.61,6
+71,269,Bananas,2.91,11
+71,269,Leeks,1.4,19
+71,269,Gooseberries,3.73,16
+71,166,Kumquats,2.78,7
+71,166,Hazelnuts,3.58,2
+71,166,Cherimoya,5.24,1
+71,463,Mint,5.37,0
+71,463,Blueberries,1.99,18
+71,463,Tangerines,3.29,12
+71,463,Mustard greens,4.43,9
+71,811,Squash,4.14,0
+71,811,Cinnamon,1.77,2
+71,811,Papayas,3.28,8
+71,811,Cilantro,3.18,13
+71,567,Bok choy,5.12,7
+71,567,Squash,2.71,13
+71,789,Collard greens,5.06,4
+71,789,Passionfruit,1.6,15
+71,789,Papayas,4.25,7
+71,789,Basil,3.57,14
+71,789,Cumin,4.12,11
+71,456,Apricots,4.3,3
+71,456,Cabbage,4.31,16
+73,684,Cashews,3.01,11
+73,684,Papayas,2.58,4
+73,684,Bok choy,1.4,0
+73,841,Marionberries,2.62,20
+73,841,Raspberries,4.51,16
+73,841,Gooseberries,2.87,2
+73,529,Guavas,3.42,19
+73,529,Almonds,1.64,2
+73,529,Blackcurrants,3.59,14
+73,529,Swiss chard,4.6,6
+73,529,Rambutan,4.13,7
+73,529,Eggplant,1.94,2
+73,600,Tomatoes,3.62,13
+73,600,Peanuts,4.02,15
+73,600,Swiss chard,1.18,3
+73,600,Pineapples,5.12,12
+73,545,Parsnips,1.56,13
+73,545,Apricots,3.89,17
+73,207,Mulberries,3.99,19
+73,207,Swiss chard,2.63,1
+73,207,Pineapples,4.66,7
+73,207,Almonds,1.19,9
+73,207,Grapefruits,2.64,10
+73,407,Cherries,2.05,8
+73,407,Cantaloupes,3.86,2
+73,407,Artichokes,4.12,9
+73,407,Pecans,1.29,4
+73,407,Bok choy,1.88,15
+73,407,Blueberries,1.5,13
+73,700,Sweet potatoes,4.79,4
+73,700,Marionberries,5.37,7
+73,718,Ugli fruit,1.34,19
+73,718,Papayas,4.8,16
+73,718,Cucumbers,4.71,10
+73,718,Carrots,2.57,7
+73,718,Persimmons,2.06,2
+74,401,Kiwifruit,3.94,12
+74,828,Cherimoya,4.08,7
+74,828,Okra,3.84,1
+74,828,Guavas,3.69,12
+74,781,Potatoes,3.51,14
+74,781,Collard greens,1.22,19
+74,781,Cherimoya,4.72,2
+74,781,Cilantro,3.19,5
+74,617,Kale,2.37,10
+74,617,Celery,3.99,3
+74,617,Blackcurrants,1.73,13
+74,617,Pineapples,3.36,1
+74,617,Corn,3.4,14
+74,641,Thyme,3.95,19
+74,641,Blueberries,1.85,13
+74,343,Limes,4.0,1
+74,343,Mustard greens,2.56,9
+74,343,Papayas,1.51,15
+74,343,Bananas,3.5,17
+74,343,Pineapples,4.7,7
+74,395,Boysenberries,1.96,12
+74,114,Kumquats,3.23,11
+74,114,Sweet potatoes,3.54,10
+74,836,Swiss chard,4.05,3
+74,836,Sunflower seeds,1.32,7
+74,836,Lettuce,4.55,0
+74,836,Clementines,4.17,17
+74,836,Grapefruits,3.62,13
+74,836,Parsley,1.41,6
+74,836,Cantaloupes,1.63,1
+74,111,Hot peppers,1.37,12
+75,2,Basil,3.39,20
+75,770,Jackfruit,4.24,18
+75,302,Boysenberries,5.2,11
+75,302,Zucchini,5.2,16
+75,302,Cashews,5.42,3
+75,302,Cherries,2.88,8
+75,749,Peas,2.68,3
+75,749,Passionfruit,1.58,11
+75,749,Leeks,5.24,8
+75,749,Cashews,1.15,14
+77,268,Pistachios,2.6,20
+77,268,Turnips,3.04,17
+77,268,Cinnamon,4.03,7
+77,268,Lemons,4.31,16
+77,268,Potatoes,3.52,2
+77,12,Nectarines,5.11,4
+77,12,Raspberries,3.45,8
+77,12,Mangoes,4.06,15
+77,12,Marionberries,3.58,18
+77,12,Lychee,5.48,10
+77,378,Hazelnuts,2.97,16
+77,628,Coffee beans,3.64,14
+77,502,Honey,3.41,13
+77,502,Ugli fruit,4.99,3
+77,502,Pineapples,1.37,16
+77,502,Clementines,4.07,11
+77,502,Apricots,3.75,5
+77,576,Grapes,1.29,16
+77,336,Cabbage,4.15,0
+77,336,Pistachios,1.16,8
+77,336,Cranberries,1.98,15
+77,505,Peas,4.78,1
+77,505,Peaches,4.76,18
+77,505,Collard greens,5.12,8
+77,505,Pomegranates,3.66,6
+77,505,Asparagus,1.76,3
+77,505,Beans,4.96,2
+77,505,Honeydews,1.53,17
+77,505,Spinach,4.24,17
+77,206,Raspberries,4.42,18
+77,206,Lettuce,3.94,7
+78,790,Pumpkins,1.38,9
+78,630,Ugli fruit,2.54,12
+78,630,Mustard greens,1.96,3
+78,630,Walnuts,4.81,3
+78,533,Elderberries,5.3,1
+79,386,Mulberries,4.02,15
+79,386,Dates,2.36,3
+79,386,Parsnips,5.08,13
+79,386,Collard greens,2.41,0
+79,386,Thyme,1.25,9
+79,547,Rambutan,5.1,17
+79,547,Beans,1.85,4
+79,547,Swiss chard,3.37,18
+79,547,Apricots,2.33,12
+80,679,Zucchini,2.82,18
+80,679,Sweet potatoes,2.09,3
+80,679,Raspberries,5.12,7
+80,407,Cherries,2.05,3
+80,407,Cantaloupes,3.86,3
+80,407,Artichokes,4.12,5
+80,407,Pecans,1.29,17
+80,376,Blackcurrants,4.12,10
+80,376,Mint,5.22,10
+80,376,Pineberries,4.26,18
+81,388,Blackberries,2.47,7
+81,388,Broccoli,5.23,11
+81,486,Parsley,3.45,1
+81,486,Peanuts,1.96,12
+81,486,Passionfruit,3.09,7
+81,486,Okra,2.31,15
+81,486,Cauliflower,4.87,9
+81,486,Apricots,1.99,13
+81,547,Rambutan,5.1,6
+81,547,Beans,1.85,15
+81,547,Swiss chard,3.37,19
+81,547,Apricots,2.33,2
+81,547,Grapefruits,3.34,2
+81,222,Lychee,3.71,10
+81,222,Kiwi,1.45,18
+81,222,Radicchio,4.67,9
+81,222,Persimmons,4.16,17
+83,758,Persimmons,1.85,20
+83,758,Pomegranates,2.09,10
+83,758,Fennel,2.73,19
+83,758,Peanuts,2.66,9
+83,758,Collard greens,3.29,12
+83,640,Lemons,1.33,15
+83,640,Watercress,1.93,19
+83,390,Sweet potatoes,3.91,10
+83,390,Avocados,1.92,3
+83,390,Honey,1.6,5
+83,390,Collard greens,2.39,11
+83,664,Mustard greens,4.94,13
+83,664,Honey,4.49,7
+83,664,Honeydews,2.14,1
+84,63,Artichokes,5.06,14
+84,63,Honeydews,5.47,9
+84,63,Beans,4.05,7
+84,561,Boysenberries,4.42,3
+84,561,Kale,3.45,15
+84,93,Dragon fruit,3.51,8
+84,93,Beans,1.32,1
+84,93,Hot peppers,1.7,1
+84,93,Plums,4.87,5
+84,579,Zucchini,4.61,20
+84,512,Pineberries,1.83,20
+84,512,Brussels sprouts,3.72,9
+84,336,Cabbage,4.15,5
+84,336,Pistachios,1.16,0
+84,336,Cranberries,1.98,5
+84,475,Spinach,4.63,14
+84,476,Bok choy,2.9,0
+84,476,Artichokes,3.77,17
+84,476,Kiwi,1.66,8
+84,476,Apples,1.24,10
+84,24,Parsnips,2.27,14
+84,356,Avocados,2.71,10
+84,356,Figs,5.37,18
+84,356,Mint,4.97,1
+84,482,Pomelo,4.79,14
+84,482,Guavas,1.4,6
+84,470,Cilantro,5.46,20
+84,470,Gooseberries,2.14,16
+84,470,Pomegranates,4.81,8
+84,649,Peanuts,1.55,11
+84,649,Fennel,5.31,20
+84,649,Grapefruits,2.36,20
+84,649,Kiwi,1.81,7
+85,495,Collard greens,3.87,20
+85,495,Peaches,1.46,1
+85,495,Blueberries,5.26,16
+85,314,Kiwi,1.59,14
+85,314,Gooseberries,4.38,12
+85,314,Pomelo,2.66,3
+85,314,Cashews,3.29,13
+85,314,Rambutan,2.69,12
+85,314,Raspberries,4.84,15
+85,314,Cilantro,1.83,13
+85,582,Peas,2.96,5
+85,419,Cashews,3.68,11
+85,773,Plums,3.92,15
+85,773,Boysenberries,3.35,0
+85,773,Tomatoes,1.2,17
+85,773,Persimmons,5.34,12
+85,773,Grapes,2.24,7
+85,151,Boysenberries,5.15,0
+85,151,Leeks,2.97,6
+85,673,Chives,5.47,9
+85,673,Garlic,3.99,13
+85,673,Cabbage,2.58,2
+85,673,Pineberries,3.6,17
+85,673,Collard greens,1.74,9
+85,673,Cherimoya,3.26,18
+85,218,Currants,2.91,17
+85,218,Parsnips,4.19,1
+85,218,Gooseberries,2.54,5
+85,218,Collard greens,4.38,5
+85,218,Limes,1.36,4
+85,218,Bananas,1.47,15
+85,218,Beets,1.11,19
+85,218,Fennel,3.45,20
+85,198,Figs,2.16,10
+85,198,Pomegranates,3.76,4
+85,198,Tomatoes,2.44,13
+85,60,Figs,4.59,5
+85,60,Cashews,3.67,10
+85,60,Limes,1.18,2
+85,475,Spinach,4.63,3
+85,671,Watermelons,3.06,10
+85,671,Bananas,2.21,2
+85,671,Figs,4.59,3
+85,671,Blueberries,3.33,19
+85,265,Watercress,2.62,5
+85,265,Eggplant,3.56,13
+85,265,Radishes,3.04,17
+85,265,Plums,4.63,10
+86,137,Fennel,4.48,19
+86,137,Blueberries,2.03,4
+86,137,Passionfruit,1.44,1
+86,137,Honeydews,3.8,19
+86,166,Kumquats,2.78,4
+86,166,Hazelnuts,3.58,15
+86,121,Cherries,3.15,11
+86,121,Squash,3.06,16
+86,121,Kiwi,4.57,6
+86,121,Blueberries,4.45,12
+86,121,Strawberries,3.41,1
+86,121,Bananas,4.43,6
+88,513,Lemons,2.21,11
+88,513,Cabbage,5.04,12
+88,513,Limes,4.07,19
+88,513,Squash,5.21,0
+88,261,Basil,2.29,18
+88,261,Dill,1.45,17
+88,261,Sweet potatoes,4.83,10
+88,261,Lemons,1.2,8
+88,540,Lychee,2.51,8
+88,540,Lettuce,4.41,16
+88,540,Raspberries,3.6,16
+88,540,Cashews,2.77,7
+88,540,Honey,2.05,1
+88,508,Figs,3.96,10
+88,508,Sage,4.62,11
+88,508,Spinach,1.52,8
+88,508,Swiss chard,1.39,13
+88,361,Pumpkins,1.33,12
+88,361,Persimmons,2.43,13
+88,361,Kiwi,3.73,17
+88,361,Corn,4.17,18
+88,320,Bok choy,3.18,7
+88,550,Persimmons,2.93,20
+88,550,Oranges,1.48,6
+88,550,Onions,2.8,19
+88,550,Collard greens,3.8,19
+88,550,Celery,1.86,16
+88,550,Rambutan,1.28,15
+88,550,Cucumbers,4.78,13
+88,534,Zucchini,4.63,3
+88,534,Pomegranates,1.93,16
+88,534,Cilantro,4.9,14
+88,534,Marionberries,2.69,0
+88,534,Asparagus,1.16,1
+88,746,Blackcurrants,3.04,17
+88,746,Corn,1.74,2
+90,205,Kiwifruit,4.5,7
+90,205,Dill,2.92,8
+91,170,Pineapples,1.99,7
+91,170,Plums,3.69,1
+91,170,Asparagus,2.41,10
+91,170,Potatoes,4.69,4
+91,170,Apricots,4.44,20
+91,533,Elderberries,5.3,20
+91,533,Brussels sprouts,2.44,18
+91,20,Pumpkins,4.28,12
+91,20,Collard greens,1.95,3
+91,20,Tangerines,3.09,9
+91,20,Carrots,2.22,20
+91,20,Cherimoya,1.11,12
+91,366,Passionfruit,1.15,4
+91,366,Blackberries,4.66,15
+91,366,Gooseberries,1.8,6
+91,366,Cherimoya,3.33,4
+91,366,Cabbage,3.51,2
+91,217,Asparagus,2.4,0
+91,217,Avocados,4.02,17
+91,217,Swiss chard,3.71,6
+91,217,Sage,2.59,15
+91,217,Cabbage,2.08,4
+91,217,Mint,4.11,9
+91,217,Watermelons,4.68,20
+91,846,Parsley,3.02,12
+91,846,Boysenberries,2.82,17
+91,846,Marionberries,3.73,14
+91,846,Lettuce,3.87,10
+91,846,Carrots,4.11,9
+91,846,Blackberries,3.52,19
+91,701,Fennel,1.17,11
+91,701,Basil,5.36,19
+91,701,Pecans,4.57,12
+91,701,Eggplant,3.92,13
+91,194,Honey,4.34,10
+91,194,Chives,1.17,10
+91,574,Elderberries,1.45,4
+91,574,Bok choy,4.03,1
+91,574,Lemons,5.2,14
+91,134,Pineapples,3.98,16
+91,134,Celery,2.55,16
+91,134,Mint,4.21,3
+91,134,Avocados,1.2,15
+91,134,Parsnips,2.17,12
+91,134,Squash,2.09,13
+91,134,Carrots,3.43,10
+91,134,Cantaloupes,3.54,15
+91,134,Bok choy,1.75,11
+91,518,Pineberries,1.88,4
+91,518,Garlic,1.68,9
+91,518,Pomegranates,3.19,12
+91,518,Bell peppers,1.22,1
+91,518,Currants,4.22,0
+91,518,Carrots,3.6,4
+92,174,Peaches,4.42,12
+92,174,Watercress,3.57,14
+92,174,Boysenberries,4.85,18
+92,174,Cinnamon,2.02,9
+92,807,Pineberries,4.94,7
+92,807,Cranberries,2.04,13
+92,807,Bok choy,5.47,14
+92,620,Blueberries,3.74,17
+92,620,Tangerines,4.74,19
+92,620,Kale,4.33,12
+92,620,Pomelo,4.92,14
+92,620,Sunflower seeds,2.67,2
+92,238,Apples,3.3,6
+92,238,Dates,2.49,4
+92,238,Blueberries,1.17,14
+92,238,Chives,4.32,12
+92,132,Asparagus,3.98,15
+92,132,Limes,4.11,12
+92,132,Potatoes,2.78,17
+92,132,Cabbage,1.76,16
+92,132,Cucumbers,3.25,16
+92,132,Dill,1.31,11
+92,96,Okra,2.7,13
+92,96,Collard greens,3.78,12
+93,753,Rosemary,3.93,19
+93,463,Mint,5.37,18
+93,463,Blueberries,1.99,14
+93,681,Mulberries,5.31,5
+93,352,Cumin,2.39,12
+93,352,Raspberries,4.51,17
+93,352,Kale,3.59,12
+93,748,Plums,1.98,17
+93,230,Beets,2.38,2
+93,151,Boysenberries,5.15,8
+93,151,Leeks,2.97,6
+93,151,Onions,4.64,7
+93,13,Sunflower seeds,2.95,12
+93,13,Pistachios,2.71,18
+93,13,Squash,3.08,8
+93,13,Cilantro,2.01,0
+93,220,Pecans,1.84,1
+93,220,Brussels sprouts,4.23,12
+93,220,Dates,3.89,14
+93,220,Kumquats,1.21,15
+93,220,Grapes,2.29,3
+93,220,Jackfruit,2.03,3
+93,220,Radicchio,2.86,10
+93,154,Honeydews,2.19,15
+93,154,Celery,1.26,20
+93,538,Hot peppers,4.47,9
+93,32,Hazelnuts,1.27,14
+93,32,Pineapples,1.37,11
+93,32,Pomegranates,1.15,2
+93,32,Apples,1.52,14
+93,32,Cherries,5.3,18
+93,32,Honeydews,1.64,16
+94,664,Mustard greens,4.94,1
+94,664,Honey,4.49,2
+94,664,Honeydews,2.14,17
+94,583,Papayas,4.65,10
+94,583,Collard greens,1.37,1
+94,681,Mulberries,5.31,8
+94,811,Squash,4.14,18
+94,811,Cinnamon,1.77,17
+94,811,Papayas,3.28,16
+94,811,Cilantro,3.18,19
+94,811,Mulberries,4.55,17
+94,811,Parsley,1.52,3
+94,539,Lettuce,5.46,6
+94,539,Pistachios,2.58,9
+94,539,Bok choy,1.51,15
+94,52,Asparagus,4.39,11
+94,52,Kiwi,3.68,7
+94,52,Bok choy,3.05,12
+94,52,Ugli fruit,4.35,6
+94,52,Cauliflower,1.67,13
+94,500,Peas,2.66,11
+94,500,Watercress,2.4,15
+94,500,Sweet potatoes,2.87,7
+94,500,Marionberries,2.15,8
+94,500,Zucchini,1.14,7
+94,500,Lychee,1.19,8
+94,500,Rambutan,4.03,0
+94,500,Cherries,1.85,14
+94,500,Grapes,3.35,16
+94,593,Cranberries,4.61,18
+94,593,Celery,4.64,14
+94,593,Lemons,2.53,15
+94,593,Lychee,2.25,10
+94,593,Nectarines,1.39,2
+94,593,Asparagus,3.85,0
+94,593,Kiwi,4.02,0
+94,593,Cauliflower,5.29,7
+94,341,Lychee,3.0,12
+94,341,Dill,4.93,11
+94,341,Kumquats,4.72,7
+94,341,Blueberries,2.57,11
+94,341,Sunflower seeds,3.62,18
+94,341,Sage,2.97,19
+94,341,Asparagus,3.34,0
+94,341,Cumin,1.4,15
+94,341,Mangoes,1.55,2
+94,341,Hazelnuts,5.36,7
+94,246,Potatoes,4.05,17
+94,246,Beets,3.01,5
+94,246,Cilantro,2.88,8
+94,246,Radishes,1.22,16
+94,246,Cantaloupes,4.2,18
+94,246,Sage,4.91,13
+94,246,Coffee beans,3.3,1
+94,246,Cucumbers,2.9,18
+94,246,Watermelons,4.28,20
+95,163,Fennel,4.33,7
+95,163,Persimmons,4.39,12
+95,386,Mulberries,4.02,0
+95,386,Dates,2.36,19
+95,386,Parsnips,5.08,4
+95,386,Collard greens,2.41,12
+95,386,Thyme,1.25,10
+95,90,Squash,3.16,13
+95,36,Tomatoes,1.86,20
+95,36,Limes,1.53,20
+95,36,Watercress,2.57,16
+95,36,Jackfruit,3.47,15
+95,36,Cantaloupes,1.95,12
+95,36,Cranberries,2.76,8
+95,36,Lychee,4.7,16
+95,725,Gooseberries,5.46,11
+95,725,Potatoes,2.11,10
+95,725,Eggplant,1.18,19
+95,725,Blueberries,2.06,1
+95,725,Cashews,2.34,9
+95,248,Bok choy,3.98,11
+95,248,Pumpkins,2.48,4
+95,248,Cabbage,4.04,6
+95,62,Honeydews,5.38,4
+95,339,Strawberries,4.98,2
+95,265,Watercress,2.62,5
+95,265,Eggplant,3.56,10
+95,265,Radishes,3.04,10
+95,265,Plums,4.63,2
+95,265,Pomegranates,1.67,16
+95,258,Brussels sprouts,3.03,9
+95,258,Ugli fruit,2.06,5
+95,183,Mangoes,3.26,16
+95,183,Celery,1.58,10
+95,183,Pecans,5.08,18
+95,183,Clementines,4.14,10
+95,183,Kumquats,4.27,6
+95,183,Boysenberries,5.03,6
+96,64,Walnuts,1.55,3
+96,64,Mangoes,3.0,4
+96,132,Asparagus,3.98,1
+96,132,Limes,4.11,4
+96,132,Potatoes,2.78,2
+96,697,Pecans,1.5,1
+96,697,Nectarines,3.55,3
+96,697,Cucumbers,1.57,13
+96,697,Cabbage,2.88,6
+96,697,Peaches,4.99,17
+96,697,Tangerines,3.31,14
+96,697,Cherimoya,5.34,5
+96,697,Coffee beans,3.32,5
+96,744,Hot peppers,3.36,1
+96,744,Oranges,1.21,15
+96,744,Swiss chard,5.14,15
+96,744,Squash,5.11,11
+96,744,Avocados,1.47,7
+96,744,Nectarines,2.84,3
+96,665,Elderberries,1.61,19
+96,665,Honey,3.36,0
+96,665,Hazelnuts,4.17,1
+96,665,Cantaloupes,5.32,14
+96,553,Garlic,1.72,10
+96,553,Pomegranates,4.73,19
+96,553,Cherries,1.47,6
+96,423,Lettuce,1.82,10
+96,472,Rambutan,2.08,1
+96,472,Carrots,1.9,0
+96,472,Okra,2.22,14
+96,472,Brussels sprouts,2.26,9
+98,562,Beets,4.19,5
+98,736,Carrots,5.36,17
+98,736,Garlic,4.73,9
+98,736,Squash,3.24,20
+98,736,Asparagus,2.82,6
+98,736,Clementines,4.5,16
+98,544,Persimmons,2.14,1
+98,544,Sunflower seeds,3.04,12
+98,544,Asparagus,4.29,4
+98,544,Potatoes,1.99,17
+98,544,Broccoli,2.64,7
+98,544,Swiss chard,3.57,2
+98,23,Swiss chard,3.39,7
+98,23,Figs,5.07,15
+98,23,Cilantro,3.92,17
+98,23,Artichokes,1.73,1
+98,23,Garlic,3.08,8
+98,23,Cantaloupes,3.05,8
+98,776,Pistachios,4.29,2
+98,643,Clementines,1.26,2
+98,643,Peaches,4.82,14
+98,643,Kiwi,3.07,14
+98,643,Cantaloupes,2.52,7
+98,670,Cranberries,1.11,5
+98,88,Peas,2.41,19
+98,554,Persimmons,4.13,19
+98,554,Apples,3.55,11
+98,654,Kale,2.05,14
+99,481,Peanuts,2.75,16
+99,69,Cantaloupes,4.67,8
+99,69,Pistachios,2.08,1
+99,69,Blueberries,1.44,0
+99,111,Hot peppers,1.37,3
+99,111,Asparagus,3.21,0
+99,111,Grapes,2.44,13
+99,111,Walnuts,2.62,14
+99,257,Rosemary,4.95,14
+99,257,Basil,1.16,3
+99,257,Mangoes,4.14,14
+99,257,Avocados,4.42,9
+99,257,Mulberries,4.66,8
+99,257,Bell peppers,2.42,16
+99,257,Sage,4.55,6
+99,155,Carrots,2.43,18
+99,155,Lychee,2.37,11
+99,155,Sweet potatoes,1.38,17
+99,155,Cabbage,3.16,1
+99,140,Mustard greens,3.94,18
+99,140,Pineapples,4.64,1
+99,705,Guavas,3.42,20
+99,705,Bok choy,2.39,9
+99,705,Cabbage,4.05,2
+99,705,Fennel,3.56,6
+99,705,Zucchini,1.84,0

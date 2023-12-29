@@ -1,0 +1,266 @@
+,vendor_id,name,open_hours,close_hours,street,city,state,email,phone_number,season_op
+0,1,Golden Acres Farm,11:00,19:00,2033 avenue ,grey,NY,farm0.contact@gmail.com,450-458-9743,"Summer, Fall"
+1,2,Meadowview Ranch,11:00,17:00,6076 street ,red,NJ,farm1.contact@gmail.com,129-659-1890,Fall
+2,3,Whispering Pines Acres,9:00,19:00,3274 avenue ,grey,GA,farm2.contact@yahoo.com,653-436-2612,"Summer, Fall"
+3,4,Sunny Hill Farmstead,8:00,17:00,4150 street ,red,NJ,farm3.contact@gmail.com,814-479-7504,"Summer, Fall"
+4,5,Apple Orchard Ranch,8:00,19:00,8716 avenue ,brown,NJ,farm4.contact@yahoo.com,966-654-6886,Summer
+5,6,Blue Sky Meadows,12:00,19:00,8091 street ,grey,NY,farm5.contact@gmail.com,935-763-6507,Summer
+6,7,Hickory Ridge Farm,8:00,16:00,7688 street ,red,NY,farm6.contact@yahoo.com,562-502-6922,"Spring, Fall"
+7,8,Maplewood Acres,8:00,19:00,2164 street ,blue,NY,farm7.contact@gmail.com,121-272-7664,All
+8,9,Green Pastures Ranch,9:00,17:00,6105 avenue ,orange,NY,farm8.contact@gmail.com,796-669-4517,All
+9,10,Riverbend Farmstead,12:00,18:00,4714 street ,yellow,GA,farm9.contact@yahoo.com,514-509-2757,All
+10,11,Prairieview Acres,11:00,16:00,8624 street ,brown,NY,farm10.contact@yahoo.com,829-984-5955,Spring
+11,12,Sunflower Fields Farm,10:00,18:00,2652 street ,yellow,NY,farm11.contact@yahoo.com,368-226-9608,Summer
+12,13,Golden Harvest Ranch,10:00,16:00,8827 street ,yellow,GA,farm12.contact@gmail.com,807-186-7163,"Summer, Fall"
+13,14,Cottonwood Grove Farmstead,8:00,18:00,1799 street ,black,NJ,farm13.contact@yahoo.com,794-512-5838,All
+14,15,Red Maple Acres,12:00,19:00,7515 street ,blue,NY,farm14.contact@yahoo.com,510-900-7972,"Summer, Fall"
+15,16,Silver Creek Ranch,11:00,19:00,3147 street ,green,NJ,farm15.contact@gmail.com,477-287-6647,"Summer, Fall"
+16,17,Hidden Springs Farm,9:00,17:00,4737 avenue ,red,NY,farm16.contact@yahoo.com,594-149-1072,Summer
+17,18,Misty Morning Acres,8:00,16:00,2631 avenue ,green,NY,farm17.contact@gmail.com,786-282-4605,"Spring, Fall"
+18,19,Highland Hills Farmstead,8:00,19:00,5176 street ,grey,NY,farm18.contact@gmail.com,192-231-2563,"Spring, Summer, Fall"
+19,20,Emerald Valley Acres,11:00,18:00,580 street ,black,NJ,farm19.contact@gmail.com,752-625-4132,"Spring, Fall"
+20,21,Cherry Blossom Ranch,12:00,19:00,7425 avenue ,blue,GA,farm20.contact@gmail.com,121-473-7894,All
+21,22,Bluebell Valley Farm,9:00,19:00,7506 street ,blue,GA,farm21.contact@gmail.com,851-868-5784,"Spring, Fall"
+22,23,Pine Tree Acres,12:00,17:00,5223 avenue ,brown,GA,farm22.contact@yahoo.com,207-921-8374,Fall
+23,24,Azure Sky Ranch,12:00,19:00,8788 street ,orange,GA,farm23.contact@yahoo.com,416-503-6180,Fall
+24,25,Blossom Hill Farmstead,10:00,17:00,4592 avenue ,grey,NY,farm24.contact@yahoo.com,911-672-2539,All
+25,26,Sycamore Valley Acres,9:00,16:00,2034 avenue ,blue,NJ,farm25.contact@gmail.com,485-875-2271,"Summer, Fall"
+26,27,Sunny Slope Farm,9:00,16:00,4892 avenue ,orange,NJ,farm26.contact@gmail.com,842-325-9608,Fall
+27,28,Mountain View Acres,10:00,16:00,6889 avenue ,blue,NJ,farm27.contact@gmail.com,940-525-1185,Summer
+28,29,Starlight Meadows Ranch,11:00,18:00,1754 avenue ,orange,NJ,farm28.contact@gmail.com,997-928-3331,Fall
+29,30,Crimson Clover Farmstead,12:00,19:00,3552 street ,yellow,NJ,farm29.contact@yahoo.com,631-995-7597,"Spring, Summer, Fall"
+30,31,Meadow Lark Acres,11:00,18:00,310 street ,grey,GA,farm30.contact@gmail.com,956-655-4500,All
+31,32,Whispering Oaks Ranch,9:00,19:00,8333 avenue ,brown,GA,farm31.contact@yahoo.com,336-944-3234,All
+32,33,Rocky Top Farm,9:00,18:00,741 street ,orange,NY,farm32.contact@gmail.com,553-962-4441,Fall
+33,34,Briarwood Acres,9:00,19:00,7090 street ,grey,NJ,farm33.contact@gmail.com,787-131-2602,Spring
+34,35,Crimson Ridge Ranch,10:00,17:00,5591 street ,red,NY,farm34.contact@yahoo.com,325-522-3635,Summer
+35,36,Golden Fields Farmstead,8:00,17:00,2029 avenue ,grey,NY,farm35.contact@yahoo.com,717-579-8638,"Spring, Summer, Fall"
+36,37,Magnolia Hill Acres,12:00,16:00,2545 avenue ,grey,NJ,farm36.contact@yahoo.com,797-821-4049,"Summer, Fall"
+37,38,Silver Lake Ranch,9:00,16:00,2556 avenue ,orange,NJ,farm37.contact@gmail.com,950-370-7938,"Summer, Fall"
+38,39,Sycamore Grove Farm,9:00,16:00,6340 avenue ,green,NJ,farm38.contact@yahoo.com,627-315-2568,Spring
+39,40,Sunset Ridge Acres,8:00,17:00,7155 street ,black,NJ,farm39.contact@gmail.com,387-463-7853,All
+40,41,Apple Blossom Ranch,12:00,16:00,1952 street ,black,NJ,farm40.contact@gmail.com,669-803-4145,Spring
+41,42,Pecan Grove Farmstead,10:00,17:00,6560 avenue ,brown,GA,farm41.contact@gmail.com,116-334-9874,"Spring, Fall"
+42,43,Hidden Hollow Acres,11:00,17:00,2007 street ,yellow,NJ,farm42.contact@yahoo.com,131-744-4532,"Summer, Fall"
+43,44,Golden Wheat Farm,8:00,19:00,8530 avenue ,black,GA,farm43.contact@yahoo.com,558-359-1736,Spring
+44,45,Hazelwood Acres,10:00,17:00,8215 avenue ,green,GA,farm44.contact@yahoo.com,887-640-6277,Summer
+45,46,Green Meadow Farmstead,8:00,19:00,872 avenue ,orange,GA,farm45.contact@yahoo.com,529-441-5883,"Spring, Fall"
+46,47,Rustic Haven Acres,10:00,17:00,1535 avenue ,blue,NJ,farm46.contact@yahoo.com,600-390-3277,Fall
+47,48,Harvest Moon Farm,9:00,17:00,3741 avenue ,red,NY,farm47.contact@yahoo.com,807-273-7597,"Spring, Fall"
+48,49,Ivory Tower Ranch,10:00,19:00,310 avenue ,black,NJ,farm48.contact@gmail.com,976-705-9968,Fall
+49,50,Wilderness Way Farmstead,9:00,19:00,2043 street ,blue,NJ,farm49.contact@yahoo.com,486-336-2044,Spring
+50,51,Goldenrod Acres,12:00,18:00,8309 avenue ,yellow,NJ,farm50.contact@gmail.com,568-556-6703,"Spring, Fall"
+51,52,Whistling Wind Ranch,11:00,16:00,6835 street ,black,NY,farm51.contact@yahoo.com,824-637-2373,"Spring, Summer, Fall"
+52,53,Mossy Oak Farm,9:00,16:00,7053 avenue ,yellow,NY,farm52.contact@yahoo.com,858-574-1780,"Summer, Fall"
+53,54,Cedar Springs Acres,8:00,17:00,306 avenue ,green,NJ,farm53.contact@gmail.com,638-777-9372,"Spring, Fall"
+54,55,Wildflower Meadows Ranch,12:00,16:00,989 street ,yellow,NY,farm54.contact@yahoo.com,232-903-3768,All
+55,56,Prairie Sunset Farmstead,10:00,19:00,3079 avenue ,blue,NJ,farm55.contact@yahoo.com,163-482-1988,Summer
+56,57,Pine Ridge Farm,10:00,19:00,1124 street ,blue,NY,farm56.contact@yahoo.com,621-278-7350,"Spring, Fall"
+57,58,Mountain Laurel Acres,12:00,17:00,8464 avenue ,orange,NJ,farm57.contact@gmail.com,553-221-1030,"Spring, Summer, Fall"
+58,59,Orange Blossom Farmstead,9:00,18:00,7028 street ,blue,GA,farm58.contact@gmail.com,634-159-1256,"Spring, Summer, Fall"
+59,60,Harmony Hills Ranch,8:00,17:00,1872 street ,yellow,NJ,farm59.contact@yahoo.com,624-445-6019,All
+60,61,Golden Gate Acres,9:00,19:00,7250 avenue ,brown,NY,farm60.contact@yahoo.com,580-489-3684,Spring
+61,62,Blue Ridge Farm,10:00,16:00,4851 avenue ,brown,GA,farm61.contact@gmail.com,786-559-8913,"Spring, Summer, Fall"
+62,63,Sycamore Ridge Acres,12:00,17:00,1477 street ,black,GA,farm62.contact@yahoo.com,232-836-1241,"Spring, Summer, Fall"
+63,64,Riverfront Ranch,8:00,17:00,6056 avenue ,orange,GA,farm63.contact@yahoo.com,473-575-1290,"Spring, Fall"
+64,65,Starshine Acres,10:00,16:00,3267 avenue ,blue,NJ,farm64.contact@yahoo.com,443-109-7059,"Spring, Summer, Fall"
+65,66,Meadow Brook Farmstead,12:00,19:00,4085 avenue ,black,NJ,farm65.contact@gmail.com,264-514-6019,"Spring, Fall"
+66,67,Hidden Springs Acres,9:00,18:00,2828 street ,yellow,NY,farm66.contact@yahoo.com,893-341-8059,"Spring, Fall"
+67,68,Pecan Valley Farm,10:00,16:00,4682 street ,grey,NJ,farm67.contact@gmail.com,892-952-5743,"Spring, Summer, Fall"
+68,69,Emerald Isle Acres,12:00,19:00,2046 avenue ,orange,GA,farm68.contact@yahoo.com,566-367-7889,"Spring, Fall"
+69,70,Silver Creek Farmstead,10:00,17:00,3012 street ,brown,GA,farm69.contact@gmail.com,604-509-7593,Spring
+70,71,Birchwood Ranch,8:00,18:00,2526 avenue ,black,NJ,farm70.contact@yahoo.com,649-575-5286,"Summer, Fall"
+71,72,Moonlit Meadows Acres,12:00,16:00,2917 avenue ,blue,NJ,farm71.contact@gmail.com,234-232-4383,Fall
+72,73,Whispering Oaks Farm,12:00,17:00,738 avenue ,brown,NY,farm72.contact@yahoo.com,502-176-9658,Spring
+73,74,Sunny Side Acres,12:00,18:00,5783 avenue ,grey,NJ,farm73.contact@gmail.com,477-852-2444,"Spring, Summer, Fall"
+74,75,Sugar Maple Ranch,8:00,16:00,1952 street ,grey,NY,farm74.contact@yahoo.com,855-482-1646,Fall
+75,76,Golden Gables Farm,9:00,17:00,4513 avenue ,orange,GA,farm75.contact@yahoo.com,933-688-4974,"Spring, Fall"
+76,77,Violet Valley Acres,12:00,16:00,1910 street ,blue,NJ,farm76.contact@yahoo.com,839-522-9733,All
+77,78,Green Valley Farmstead,11:00,18:00,8662 street ,red,NY,farm77.contact@yahoo.com,103-300-1179,Spring
+78,79,Applewood Acres,9:00,19:00,5335 avenue ,green,NY,farm78.contact@gmail.com,393-837-4513,Summer
+79,80,Redwood Ridge Ranch,11:00,17:00,4060 avenue ,green,NJ,farm79.contact@gmail.com,665-519-9702,"Spring, Fall"
+80,81,Mountain Majesty Farm,8:00,18:00,875 street ,grey,GA,farm80.contact@yahoo.com,485-700-2169,"Summer, Fall"
+81,82,Crystal Springs Acres,12:00,17:00,5073 street ,orange,NY,farm81.contact@yahoo.com,320-240-8051,All
+82,83,Cherry Tree Farmstead,8:00,16:00,2873 avenue ,grey,GA,farm82.contact@yahoo.com,901-316-3118,All
+83,84,Golden Harvest Acres,11:00,17:00,3257 street ,black,GA,farm83.contact@gmail.com,202-695-2936,Summer
+84,85,Sycamore Valley Ranch,12:00,18:00,240 avenue ,brown,GA,farm84.contact@gmail.com,749-396-2554,All
+85,86,Whistling Wind Acres,8:00,17:00,3437 avenue ,green,GA,farm85.contact@gmail.com,575-363-8567,"Summer, Fall"
+86,87,Silver Lake Farm,10:00,16:00,803 street ,green,NY,farm86.contact@yahoo.com,105-590-4255,Fall
+87,88,Sunflower Fields Farmstead,10:00,19:00,1435 avenue ,yellow,NY,farm87.contact@yahoo.com,871-495-1589,All
+88,89,Cottonwood Grove Acres,11:00,17:00,4443 avenue ,red,NY,farm88.contact@yahoo.com,572-310-3642,All
+89,90,Magnolia Hill Ranch,8:00,17:00,8318 street ,grey,NY,farm89.contact@yahoo.com,780-799-3053,"Summer, Fall"
+90,91,Meadow Lark Farmstead,8:00,16:00,1557 avenue ,grey,GA,farm90.contact@yahoo.com,164-575-7923,Fall
+91,92,Golden Wheat Acres,9:00,19:00,2962 avenue ,red,NY,farm91.contact@gmail.com,946-457-9102,"Summer, Fall"
+92,93,Rocky Top Ranch,11:00,19:00,1675 street ,orange,NJ,farm92.contact@gmail.com,163-879-1359,Fall
+93,94,Emerald Hills Farmstead,11:00,19:00,2342 avenue ,yellow,NJ,farm93.contact@gmail.com,239-880-7171,Fall
+94,95,Starlight Meadows Acres,9:00,16:00,5366 street ,orange,NY,farm94.contact@yahoo.com,451-246-5393,Summer
+95,96,Birchwood Acres,11:00,19:00,4756 street ,green,NJ,farm95.contact@yahoo.com,365-978-4795,Spring
+96,97,Honeysuckle Ranch,10:00,18:00,2145 avenue ,yellow,GA,farm96.contact@yahoo.com,903-312-3346,"Spring, Summer, Fall"
+97,98,Crimson Clover Acres,12:00,16:00,654 avenue ,yellow,NY,farm97.contact@gmail.com,850-647-1455,"Spring, Fall"
+98,99,Olive Branch Acres,10:00,17:00,5925 street ,black,GA,farm98.contact@gmail.com,237-980-8283,Summer
+99,100,Golden Gate Ranch,11:00,18:00,5578 street ,grey,NY,farm99.contact@gmail.com,821-591-3256,"Spring, Fall"
+100,101,Sunny Slope Farmstead,11:00,17:00,4142 street ,red,NJ,farm100.contact@gmail.com,387-991-9706,"Spring, Summer, Fall"
+101,102,Hickory Haven Farm,8:00,16:00,2884 street ,green,NJ,farm101.contact@yahoo.com,511-263-9463,Spring
+102,103,Whispering Pines Ranch,11:00,19:00,7832 avenue ,red,NY,farm102.contact@gmail.com,232-211-5437,"Summer, Fall"
+103,104,Prairie View Farmstead,12:00,17:00,3280 street ,grey,GA,farm103.contact@gmail.com,669-367-5260,"Spring, Summer, Fall"
+104,105,Silver Creek Farm,11:00,17:00,3730 street ,green,GA,farm104.contact@gmail.com,150-822-9472,Summer
+105,106,Apple Blossom Acres,11:00,18:00,3045 street ,grey,GA,farm105.contact@gmail.com,817-733-9676,Summer
+106,107,Maple Leaf Farmstead,8:00,19:00,3202 avenue ,grey,NY,farm106.contact@gmail.com,852-162-4192,All
+107,108,Meadowview Acres,11:00,16:00,2830 avenue ,brown,NY,farm107.contact@gmail.com,265-132-7021,Fall
+108,109,Green Gables Farm,8:00,19:00,5299 avenue ,red,GA,farm108.contact@gmail.com,911-474-3116,"Spring, Summer, Fall"
+109,110,Cedar Springs Farmstead,12:00,17:00,1277 avenue ,orange,NY,farm109.contact@yahoo.com,967-680-1470,Fall
+110,111,Sycamore Ridge Ranch,12:00,17:00,6743 avenue ,black,NY,farm110.contact@gmail.com,213-434-1449,Summer
+111,112,Mossy Oak Farmstead,12:00,19:00,6268 street ,red,NY,farm111.contact@gmail.com,104-995-6983,"Summer, Fall"
+112,113,Blue Sky Ranch,8:00,16:00,385 street ,green,GA,farm112.contact@gmail.com,671-444-9071,Spring
+113,114,Violet Valley Farmstead,12:00,16:00,7422 avenue ,blue,NY,farm113.contact@gmail.com,789-432-5005,Fall
+114,115,Pecan Valley Acres,11:00,18:00,551 avenue ,grey,NY,farm114.contact@yahoo.com,920-980-8595,"Summer, Fall"
+115,116,Harmony Hills Farmstead,12:00,16:00,5640 avenue ,brown,NJ,farm115.contact@yahoo.com,137-196-8367,Summer
+116,117,Emerald Hills Ranch,10:00,17:00,5390 street ,yellow,GA,farm116.contact@yahoo.com,354-731-4734,Fall
+117,118,Hidden Hollow Farm,10:00,19:00,563 avenue ,orange,GA,farm117.contact@yahoo.com,477-308-4925,All
+118,119,Mountain Majesty Acres,8:00,19:00,5892 street ,brown,NY,farm118.contact@gmail.com,600-702-7774,"Summer, Fall"
+119,120,Whispering Oaks Farmstead,9:00,17:00,8300 avenue ,yellow,GA,farm119.contact@yahoo.com,114-929-9642,Fall
+120,121,Sunset Ridge Ranch,9:00,19:00,8616 street ,grey,NJ,farm120.contact@yahoo.com,761-474-4928,Summer
+121,122,Mountain Laurel Farmstead,8:00,16:00,3898 street ,grey,GA,farm121.contact@yahoo.com,665-339-3715,All
+122,123,Golden Fields Acres,12:00,17:00,5479 street ,blue,GA,farm122.contact@yahoo.com,881-240-3220,All
+123,124,Sunny Side Ranch,12:00,17:00,2526 avenue ,brown,NJ,farm123.contact@gmail.com,582-331-2091,"Summer, Fall"
+124,125,Riverfront Acres,12:00,19:00,2241 street ,blue,GA,farm124.contact@yahoo.com,775-390-4932,"Summer, Fall"
+125,126,Sycamore Valley Farmstead,10:00,17:00,7588 street ,yellow,NY,farm125.contact@gmail.com,376-672-7345,Spring
+126,127,Blossom Hill Farm,9:00,16:00,2307 street ,brown,NY,farm126.contact@yahoo.com,185-161-3926,Summer
+127,128,Silver Lake Farmstead,11:00,17:00,4870 avenue ,orange,NY,farm127.contact@yahoo.com,494-693-2960,"Summer, Fall"
+128,129,Pine Ridge Acres,11:00,16:00,200 avenue ,blue,NY,farm128.contact@gmail.com,425-897-6368,"Spring, Summer, Fall"
+129,130,Sugar Maple Farmstead,12:00,17:00,5553 street ,orange,GA,farm129.contact@gmail.com,560-655-1297,All
+130,131,Sunny Hill Farm,9:00,17:00,8210 street ,black,NY,farm130.contact@gmail.com,198-235-1913,Fall
+131,132,Briarwood Farmstead,8:00,17:00,6530 avenue ,brown,GA,farm131.contact@gmail.com,147-944-7805,Spring
+132,133,Prairie Sunset Acres,10:00,19:00,5179 avenue ,green,GA,farm132.contact@gmail.com,455-220-5069,Spring
+133,134,Wildflower Meadows Acres,8:00,18:00,3996 avenue ,red,NJ,farm133.contact@gmail.com,983-589-2703,"Spring, Summer, Fall"
+134,135,Magnolia Hill Farm,9:00,18:00,2361 avenue ,black,NY,farm134.contact@gmail.com,595-536-6360,Spring
+135,136,Hickory Ridge Acres,8:00,18:00,7626 avenue ,red,NY,farm135.contact@gmail.com,593-830-4963,"Spring, Fall"
+136,137,Starlight Meadows Farmstead,9:00,17:00,1216 street ,orange,NY,farm136.contact@gmail.com,150-441-9756,Summer
+137,138,Applewood Farm,9:00,18:00,8708 street ,brown,NY,farm137.contact@yahoo.com,294-106-9186,Summer
+138,139,Misty Morning Ranch,10:00,17:00,2557 street ,brown,NJ,farm138.contact@gmail.com,214-262-4924,"Summer, Fall"
+139,140,Azure Sky Farmstead,11:00,17:00,1716 avenue ,brown,GA,farm139.contact@gmail.com,752-601-4149,All
+140,141,Golden Gables Farmstead,10:00,19:00,7357 avenue ,brown,NY,farm140.contact@gmail.com,749-496-7741,"Spring, Summer, Fall"
+141,142,Pecan Grove Acres,12:00,17:00,632 street ,orange,NY,farm141.contact@yahoo.com,258-471-8706,"Spring, Fall"
+142,143,Golden Fields Farm,10:00,16:00,7839 avenue ,grey,NY,farm142.contact@yahoo.com,395-277-7829,Fall
+143,144,Green Valley Acres,9:00,18:00,2689 street ,black,GA,farm143.contact@gmail.com,460-802-2082,Summer
+144,145,Mountain Majesty Ranch,11:00,19:00,8852 avenue ,grey,NJ,farm144.contact@yahoo.com,430-589-2197,"Summer, Fall"
+145,146,Silver Creek Acres,8:00,19:00,8762 avenue ,black,NY,farm145.contact@gmail.com,850-683-2563,"Summer, Fall"
+146,147,Crimson Ridge Farmstead,11:00,18:00,7103 street ,black,NJ,farm146.contact@gmail.com,487-345-3912,All
+147,148,Sycamore Grove Ranch,9:00,17:00,2414 avenue ,red,NY,farm147.contact@yahoo.com,926-573-6923,"Summer, Fall"
+148,149,Sugar Maple Acres,12:00,19:00,1095 avenue ,green,GA,farm148.contact@gmail.com,914-338-5508,Summer
+149,150,Golden Wheat Ranch,12:00,17:00,4735 avenue ,blue,NY,farm149.contact@yahoo.com,661-546-7356,"Spring, Fall"
+150,151,Hidden Hollow Farmstead,10:00,16:00,5886 avenue ,grey,NJ,farm150.contact@yahoo.com,473-131-4864,"Spring, Fall"
+151,152,Pine Tree Farm,12:00,18:00,1349 street ,orange,GA,farm151.contact@gmail.com,448-667-7107,"Spring, Fall"
+152,153,Harvest Moon Acres,8:00,16:00,4072 avenue ,brown,GA,farm152.contact@gmail.com,952-822-5861,"Spring, Summer, Fall"
+153,154,Whistling Wind Farmstead,12:00,19:00,3250 street ,green,NJ,farm153.contact@yahoo.com,159-988-3560,All
+154,155,Sunflower Fields Ranch,11:00,16:00,1379 avenue ,orange,GA,farm154.contact@gmail.com,866-363-6987,"Spring, Summer, Fall"
+155,156,Meadowview Farm,9:00,18:00,5279 avenue ,orange,GA,farm155.contact@yahoo.com,807-113-2586,All
+156,157,Green Meadow Farm,8:00,17:00,8378 avenue ,green,NY,farm156.contact@gmail.com,431-286-3520,"Spring, Summer, Fall"
+157,158,Blue Sky Acres,12:00,19:00,4618 street ,black,NJ,farm157.contact@gmail.com,242-897-1675,"Summer, Fall"
+158,159,Ivory Tower Farmstead,11:00,17:00,6477 street ,grey,NJ,farm158.contact@gmail.com,242-802-9974,Spring
+159,160,Golden Gate Farmstead,8:00,19:00,1895 avenue ,green,GA,farm159.contact@gmail.com,597-637-6534,"Spring, Summer, Fall"
+160,161,Goldenrod Farmstead,8:00,18:00,3270 street ,green,GA,farm160.contact@gmail.com,823-407-1214,Summer
+161,162,Silver Lake Acres,10:00,18:00,5513 avenue ,blue,NY,farm161.contact@yahoo.com,146-764-7515,All
+162,163,Sycamore Grove Acres,8:00,19:00,6412 street ,brown,NY,farm162.contact@gmail.com,307-480-3893,All
+163,164,Mossy Oak Ranch,8:00,18:00,1658 avenue ,blue,GA,farm163.contact@gmail.com,905-697-9311,Summer
+164,165,Whispering Pines Farm,9:00,17:00,720 avenue ,grey,NJ,farm164.contact@gmail.com,369-322-6342,Summer
+165,166,Red Maple Ranch,10:00,16:00,4398 street ,red,GA,farm165.contact@gmail.com,374-303-5089,Summer
+166,167,Cherry Blossom Farmstead,12:00,18:00,8532 avenue ,brown,GA,farm166.contact@yahoo.com,258-497-1487,Fall
+167,168,Harmony Hills Farm,9:00,19:00,5726 street ,grey,NJ,farm167.contact@yahoo.com,433-322-3643,"Spring, Fall"
+168,169,Green Gables Acres,9:00,19:00,3538 street ,black,NY,farm168.contact@yahoo.com,403-156-8399,"Spring, Summer, Fall"
+169,170,Pine Ridge Farmstead,11:00,19:00,6925 street ,grey,GA,farm169.contact@gmail.com,398-457-7648,Fall
+170,171,Hickory Haven Acres,12:00,17:00,7339 street ,yellow,NJ,farm170.contact@yahoo.com,699-693-6105,Fall
+171,172,Emerald Hills Farm,8:00,18:00,2650 street ,black,NJ,farm171.contact@gmail.com,848-466-7146,Spring
+172,173,Sycamore Valley Farm,12:00,16:00,1528 avenue ,brown,GA,farm172.contact@gmail.com,161-466-4604,Summer
+173,174,Apple Blossom Farm,11:00,17:00,8894 street ,red,NJ,farm173.contact@gmail.com,276-859-5897,"Summer, Fall"
+174,175,Sunny Slope Ranch,12:00,18:00,7397 avenue ,red,NY,farm174.contact@gmail.com,634-896-6892,"Spring, Summer, Fall"
+175,176,Bluebell Valley Acres,10:00,17:00,7985 avenue ,grey,NJ,farm175.contact@gmail.com,735-846-7552,All
+176,177,Meadow Lark Farm,9:00,17:00,7361 avenue ,grey,NY,farm176.contact@yahoo.com,446-379-2926,"Summer, Fall"
+177,178,Hidden Springs Farmstead,8:00,17:00,7126 street ,green,NY,farm177.contact@gmail.com,296-196-7856,"Summer, Fall"
+178,179,Golden Wheat Farmstead,9:00,16:00,2349 avenue ,black,NJ,farm178.contact@gmail.com,433-370-3400,Fall
+179,180,Green Meadow Acres,8:00,16:00,8573 street ,black,NJ,farm179.contact@gmail.com,343-271-1066,All
+180,181,Mountain View Farmstead,8:00,18:00,3902 street ,green,NJ,farm180.contact@yahoo.com,204-103-3646,All
+181,182,Redwood Ridge Farmstead,11:00,16:00,2374 street ,green,NY,farm181.contact@yahoo.com,918-683-5925,"Spring, Summer, Fall"
+182,183,Crimson Clover Farm,12:00,19:00,8902 street ,grey,GA,farm182.contact@yahoo.com,633-709-9032,"Summer, Fall"
+183,184,Emerald Hills Acres,12:00,19:00,6552 street ,yellow,NY,farm183.contact@gmail.com,855-375-3936,Fall
+184,185,Crystal Springs Ranch,9:00,19:00,4433 street ,orange,NJ,farm184.contact@gmail.com,642-658-9471,"Summer, Fall"
+185,186,Mountain View Farm,11:00,19:00,936 street ,yellow,NY,farm185.contact@gmail.com,263-892-8804,"Summer, Fall"
+186,187,Emerald Isle Farm,8:00,17:00,3490 avenue ,blue,NJ,farm186.contact@yahoo.com,609-110-4407,Spring
+187,188,Orange Blossom Farm,12:00,17:00,7012 street ,red,NJ,farm187.contact@gmail.com,815-231-8214,"Spring, Fall"
+188,189,Whispering Oaks Acres,8:00,17:00,2498 avenue ,grey,NY,farm188.contact@yahoo.com,708-285-4649,All
+189,190,Sunny Side Farmstead,8:00,19:00,4296 street ,green,NJ,farm189.contact@gmail.com,345-297-4812,Spring
+190,191,Cottonwood Creek Acres,12:00,19:00,4661 avenue ,red,NY,farm190.contact@yahoo.com,265-440-7434,All
+191,192,Blue Ridge Farmstead,9:00,18:00,6101 street ,brown,NJ,farm191.contact@yahoo.com,254-345-8906,Fall
+192,193,Whistling Wind Farm,8:00,17:00,3483 street ,blue,GA,farm192.contact@gmail.com,994-880-7735,Summer
+193,194,Blossom Hill Acres,12:00,16:00,2015 avenue ,black,GA,farm193.contact@gmail.com,478-412-1223,"Summer, Fall"
+194,195,Ivory Tower Acres,11:00,17:00,5805 street ,red,GA,farm194.contact@yahoo.com,510-447-9429,"Summer, Fall"
+195,196,Green Gables Farmstead,12:00,19:00,6962 avenue ,yellow,NJ,farm195.contact@yahoo.com,291-205-3024,Fall
+196,197,Sunflower Fields Acres,11:00,17:00,5816 avenue ,green,GA,farm196.contact@yahoo.com,630-925-4083,"Summer, Fall"
+197,198,Moonlit Meadows Farm,9:00,17:00,81 street ,yellow,NJ,farm197.contact@yahoo.com,879-191-6606,All
+198,199,Riverfront Farm,8:00,17:00,7612 street ,red,NY,farm198.contact@gmail.com,256-354-8174,Fall
+199,200,Cherry Blossom Acres,10:00,16:00,8644 avenue ,blue,GA,farm199.contact@yahoo.com,236-316-8489,Summer
+200,201,Magnolia Hill Farmstead,11:00,19:00,6713 avenue ,red,NY,farm200.contact@gmail.com,722-440-5011,Summer
+201,202,Pecan Valley Farmstead,8:00,16:00,5335 street ,grey,GA,farm201.contact@gmail.com,357-117-3147,All
+202,203,Starshine Farmstead,8:00,17:00,812 avenue ,orange,NJ,farm202.contact@gmail.com,161-368-4501,Summer
+203,204,Redwood Ridge Farm,10:00,17:00,463 street ,brown,NY,farm203.contact@gmail.com,602-361-3977,Spring
+204,205,Moonlit Meadows Farmstead,9:00,17:00,2014 avenue ,orange,NJ,farm204.contact@gmail.com,522-270-3234,"Spring, Fall"
+205,206,Sunset Ridge Farm,10:00,19:00,3120 avenue ,grey,GA,farm205.contact@yahoo.com,514-176-5093,Summer
+206,207,Hazelwood Farmstead,11:00,18:00,7858 street ,brown,NY,farm206.contact@yahoo.com,649-389-6373,"Spring, Fall"
+207,208,Rustic Haven Farm,9:00,18:00,592 avenue ,black,NY,farm207.contact@yahoo.com,873-832-9468,"Summer, Fall"
+208,209,Azure Sky Acres,10:00,19:00,2096 street ,grey,NY,farm208.contact@gmail.com,308-751-2265,Fall
+209,210,Sunny Hill Acres,10:00,16:00,5451 street ,orange,GA,farm209.contact@yahoo.com,844-472-1309,Summer
+210,211,Mossy Oak Acres,9:00,17:00,6483 street ,orange,GA,farm210.contact@gmail.com,874-276-6072,Fall
+211,212,Emerald Isle Ranch,12:00,18:00,4710 street ,green,NY,farm211.contact@yahoo.com,474-395-2698,Spring
+212,213,Birchwood Farmstead,8:00,17:00,66 street ,grey,GA,farm212.contact@yahoo.com,687-837-7049,Spring
+213,214,Whispering Wind Acres,9:00,18:00,6015 street ,blue,GA,farm213.contact@gmail.com,733-884-5416,All
+214,215,Sycamore Grove Farmstead,11:00,17:00,2820 street ,brown,GA,farm214.contact@yahoo.com,213-377-4840,Fall
+215,216,Whispering Wind Farmstead,11:00,18:00,5982 avenue ,red,NY,farm215.contact@gmail.com,812-573-5980,Fall
+216,217,Golden Fields Ranch,12:00,16:00,8379 street ,orange,GA,farm216.contact@gmail.com,815-418-2709,Fall
+217,218,Riverbend Farm,11:00,17:00,7673 street ,blue,NY,farm217.contact@gmail.com,469-127-1585,"Summer, Fall"
+218,219,Hickory Haven Farmstead,12:00,16:00,1936 street ,brown,GA,farm218.contact@gmail.com,796-444-2884,"Spring, Fall"
+219,220,Crimson Clover Ranch,10:00,18:00,6465 avenue ,green,NY,farm219.contact@yahoo.com,938-109-2451,"Spring, Fall"
+220,221,Whispering Meadows,9:00,18:00,6436 street ,orange,GA,farm220.contact@yahoo.com,818-194-7190,Summer
+221,222,Sunny Acres Farm,9:00,16:00,202 avenue ,orange,NY,farm221.contact@gmail.com,769-461-7291,"Summer, Fall"
+222,223,Evergreen Valley Ranch,12:00,17:00,6155 street ,brown,GA,farm222.contact@gmail.com,525-660-6068,Fall
+223,224,Peaceful Homestead,12:00,18:00,2972 avenue ,green,NJ,farm223.contact@gmail.com,268-793-5394,Spring
+224,225,Serene Harvest Farm,9:00,17:00,1503 street ,red,GA,farm224.contact@gmail.com,310-407-1400,"Spring, Fall"
+225,226,Joyful Fields,12:00,18:00,8122 street ,yellow,GA,farm225.contact@gmail.com,213-489-5894,Spring
+226,227,Tranquil Blossom Farm,8:00,19:00,8710 avenue ,orange,NJ,farm226.contact@gmail.com,346-765-6469,"Spring, Fall"
+227,228,Pleasant Pastures,8:00,16:00,8732 avenue ,blue,NY,farm227.contact@yahoo.com,586-143-6094,Summer
+228,229,Oakwood Farmstead,8:00,17:00,3160 avenue ,blue,NY,farm228.contact@yahoo.com,940-862-8948,Fall
+229,230,Green Haven Gardens,9:00,18:00,8907 street ,orange,NJ,farm229.contact@yahoo.com,162-137-6225,Fall
+230,231,Meadowbrook Farm,8:00,19:00,1361 street ,brown,NJ,farm230.contact@gmail.com,556-440-4574,All
+231,232,Cloverleaf Ranch,8:00,17:00,4113 street ,brown,NY,farm231.contact@yahoo.com,883-809-4810,Summer
+232,233,Hidden Orchard Farm,12:00,19:00,4188 street ,grey,NY,farm232.contact@gmail.com,673-796-9769,Spring
+233,234,Rustic Retreat Farm,9:00,18:00,6939 street ,red,GA,farm233.contact@gmail.com,129-240-2667,Spring
+234,235,Gentle Breeze Ranch,8:00,19:00,526 street ,red,GA,farm234.contact@yahoo.com,942-168-8582,"Summer, Fall"
+235,236,Rolling Hills Homestead,10:00,17:00,1786 avenue ,blue,GA,farm235.contact@yahoo.com,640-635-7503,"Spring, Summer, Fall"
+236,237,Willow Creek Farm,12:00,19:00,2793 avenue ,yellow,GA,farm236.contact@gmail.com,379-830-2887,"Spring, Fall"
+237,238,Happy Acres,12:00,16:00,1597 avenue ,grey,GA,farm237.contact@yahoo.com,745-208-8539,All
+238,239,Sweetwater Farm,8:00,17:00,2002 avenue ,blue,NJ,farm238.contact@yahoo.com,794-843-1776,Spring
+239,240,Sunrise Meadow Ranch,11:00,16:00,8872 street ,red,NJ,farm239.contact@yahoo.com,933-928-7060,Summer
+240,241,Bluebell Gardens,11:00,17:00,7090 street ,red,NJ,farm240.contact@gmail.com,697-142-1561,"Spring, Fall"
+241,242,Prairie View Farm,10:00,17:00,3060 avenue ,yellow,NJ,farm241.contact@gmail.com,577-437-2246,Spring
+242,243,Morning Glory Farm,9:00,19:00,659 avenue ,green,NJ,farm242.contact@gmail.com,885-704-7074,All
+243,244,Country Crossroads Farm,11:00,19:00,3803 avenue ,brown,NJ,farm243.contact@yahoo.com,662-436-3382,Fall
+244,245,Whispering Woods Ranch,8:00,17:00,788 avenue ,green,NY,farm244.contact@yahoo.com,963-698-9132,"Spring, Summer, Fall"
+245,246,Tranquil Valley Farm,10:00,19:00,5879 avenue ,yellow,NY,farm245.contact@gmail.com,586-488-7315,Spring
+246,247,Everlasting Meadows,11:00,16:00,1151 avenue ,brown,NY,farm246.contact@gmail.com,417-711-1526,All
+247,248,Sunflower Hill Farm,9:00,17:00,4127 avenue ,orange,NJ,farm247.contact@yahoo.com,142-819-5212,Spring
+248,249,Stoneybrook Ranch,8:00,17:00,7993 street ,red,GA,farm248.contact@yahoo.com,592-537-8546,"Spring, Fall"
+249,250,Wildflower Fields,8:00,16:00,7300 avenue ,black,NJ,farm249.contact@yahoo.com,191-840-8795,Fall
+250,251,Maplewood Farmstead,12:00,19:00,1308 avenue ,blue,NY,farm250.contact@gmail.com,395-177-5504,"Summer, Fall"
+251,252,Serendipity Acres,8:00,16:00,3882 avenue ,blue,NJ,farm251.contact@gmail.com,213-864-8182,Summer
+252,253,Lavender Lane Farm,11:00,17:00,7379 street ,red,NY,farm252.contact@yahoo.com,720-882-6410,All
+253,254,Riverside Farmstead,11:00,17:00,4844 street ,green,GA,farm253.contact@yahoo.com,862-367-3700,All
+254,255,Homestead Haven,11:00,17:00,5304 avenue ,yellow,GA,farm254.contact@yahoo.com,176-994-9859,Spring
+255,256,Willow Glen Gardens,10:00,16:00,549 avenue ,red,NJ,farm255.contact@gmail.com,735-348-8320,"Spring, Summer, Fall"
+256,257,Amber Meadow Farm,12:00,17:00,5032 avenue ,brown,GA,farm256.contact@yahoo.com,807-374-5395,Summer
+257,258,Pinecrest Ranch,9:00,18:00,6980 avenue ,green,NJ,farm257.contact@yahoo.com,240-436-1789,"Summer, Fall"
+258,259,Fernwood Acres,9:00,18:00,8868 street ,blue,GA,farm258.contact@yahoo.com,248-108-3135,"Spring, Fall"
+259,260,Dreamcatcher Farm,10:00,17:00,6181 street ,red,NY,farm259.contact@yahoo.com,625-209-4406,Summer
+260,261,Heritage Harvest Farm,9:00,18:00,2142 avenue ,black,NJ,farm260.contact@gmail.com,386-353-6608,"Spring, Summer, Fall"
+261,262,Whispering Willow Ranch,8:00,18:00,7542 avenue ,yellow,NJ,farm261.contact@yahoo.com,234-704-6316,"Summer, Fall"
+262,263,Meadowview Farmstead,10:00,16:00,4614 avenue ,green,NJ,farm262.contact@yahoo.com,498-559-4480,"Summer, Fall"
+263,264,Tranquil Trails Ranch,10:00,17:00,5832 avenue ,black,GA,farm263.contact@yahoo.com,960-466-4387,Fall
+264,265,Sunlit Meadow Farm,12:00,16:00,320 avenue ,orange,NJ,farm264.contact@yahoo.com,486-222-8296,Spring
